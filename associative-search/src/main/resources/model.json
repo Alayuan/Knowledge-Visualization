@@ -1,0 +1,3458 @@
+[
+  {
+    "conceptList": [
+      {
+        "conceptName": "SARS-CoV-2",
+        "id": "M000732445",
+        "scopeNote": "A species of BETACORONAVIRUS causing atypical respiratory disease (COVID-19) in humans. The organism was first identified in 2019 in Wuhan, China. The natural host is the Chinese intermediate horseshoe bat, RHINOLOPHUS affinis.\n                ",
+        "termList": [
+          {
+            "id": "T001079611",
+            "string": "SARS-CoV-2"
+          },
+          {
+            "id": "T001079609",
+            "string": "Coronavirus Disease 2019 Virus"
+          },
+          {
+            "id": "T001079604",
+            "string": "2019 Novel Coronavirus"
+          },
+          {
+            "id": "T001079604",
+            "string": "2019 Novel Coronaviruses"
+          },
+          {
+            "id": "T001079604",
+            "string": "Coronavirus, 2019 Novel"
+          },
+          {
+            "id": "T001079604",
+            "string": "Novel Coronavirus, 2019"
+          },
+          {
+            "id": "T001079607",
+            "string": "Wuhan Seafood Market Pneumonia Virus"
+          },
+          {
+            "id": "T001079585",
+            "string": "SARS-CoV-2 Virus"
+          },
+          {
+            "id": "T001079585",
+            "string": "SARS CoV 2 Virus"
+          },
+          {
+            "id": "T001079585",
+            "string": "SARS-CoV-2 Viruses"
+          },
+          {
+            "id": "T001079585",
+            "string": "Virus, SARS-CoV-2"
+          },
+          {
+            "id": "T001005936",
+            "string": "2019-nCoV"
+          },
+          {
+            "id": "T001079605",
+            "string": "COVID-19 Virus"
+          },
+          {
+            "id": "T001079605",
+            "string": "COVID 19 Virus"
+          },
+          {
+            "id": "T001079605",
+            "string": "COVID-19 Viruses"
+          },
+          {
+            "id": "T001079605",
+            "string": "Virus, COVID-19"
+          },
+          {
+            "id": "T001079606",
+            "string": "Wuhan Coronavirus"
+          },
+          {
+            "id": "T001079606",
+            "string": "Coronavirus, Wuhan"
+          },
+          {
+            "id": "T001082224",
+            "string": "SARS Coronavirus 2"
+          },
+          {
+            "id": "T001082224",
+            "string": "Coronavirus 2, SARS"
+          },
+          {
+            "id": "T001079610",
+            "string": "Severe Acute Respiratory Syndrome Coronavirus 2"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "SARS-CoV-2",
+    "id": "D000086402"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Coronavirus RNA-Dependent RNA Polymerase",
+        "id": "M000732446",
+        "scopeNote": "RNA-Dependent RNA Polymerases found in species of CORONAVIRIDAE.\n                ",
+        "termList": [
+          {
+            "id": "T001080858",
+            "string": "Coronavirus RNA-Dependent RNA Polymerase"
+          },
+          {
+            "id": "T001080858",
+            "string": "Coronavirus RNA Dependent RNA Polymerase"
+          },
+          {
+            "id": "T001080855",
+            "string": "RNA-Dependent RNA Polymerase, Coronavirus"
+          },
+          {
+            "id": "T001080855",
+            "string": "RNA Dependent RNA Polymerase, Coronavirus"
+          },
+          {
+            "id": "T001080854",
+            "string": "CoV RdRp Protein"
+          },
+          {
+            "id": "T001079613",
+            "string": "RNA-Dependent RNA Polymerases, Coronavirus"
+          },
+          {
+            "id": "T001079613",
+            "string": "RNA Dependent RNA Polymerases, Coronavirus"
+          },
+          {
+            "id": "T001080856",
+            "string": "Coronavirus RNA Polymerase"
+          },
+          {
+            "id": "T001080856",
+            "string": "RNA Polymerase, Coronavirus"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Coronavirus RNA-Dependent RNA Polymerase",
+    "id": "D000086422"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Coronavirus Nucleocapsid Proteins",
+        "id": "M000732493",
+        "scopeNote": "Nucleocapsid proteins from species of the CORONAVIRIDAE virus family.\n                ",
+        "termList": [
+          {
+            "id": "T001079725",
+            "string": "Coronavirus Nucleocapsid Proteins"
+          },
+          {
+            "id": "T001079725",
+            "string": "Nucleocapsid Proteins, Coronavirus"
+          },
+          {
+            "id": "T001081113",
+            "string": "N Protein, Coronavirus"
+          },
+          {
+            "id": "T001081113",
+            "string": "Coronavirus N Protein"
+          },
+          {
+            "id": "T001081112",
+            "string": "Nucleocapsid Protein, Coronavirus"
+          },
+          {
+            "id": "T001081112",
+            "string": "Coronavirus Nucleocapsid Protein"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Coronavirus Nucleocapsid Proteins",
+    "id": "D000086462"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Viral Genome Packaging",
+        "id": "M000732545",
+        "scopeNote": "Folding of the viral genomic nucleic acid into the VIRUS PARTICLE.\n                ",
+        "termList": [
+          {
+            "id": "T001079779",
+            "string": "Viral Genome Packaging"
+          },
+          {
+            "id": "T001079779",
+            "string": "Genome Packaging, Viral"
+          },
+          {
+            "id": "T056954",
+            "string": "Viral Packaging"
+          },
+          {
+            "id": "T056953",
+            "string": "Packaging, Viral"
+          },
+          {
+            "id": "T001081367",
+            "string": "Virus Genome Packaging"
+          },
+          {
+            "id": "T001081367",
+            "string": "Genome Packaging, Virus"
+          },
+          {
+            "id": "T001081367",
+            "string": "Genome Packagings, Virus"
+          },
+          {
+            "id": "T001081367",
+            "string": "Packaging, Virus Genome"
+          },
+          {
+            "id": "T001081367",
+            "string": "Packagings, Virus Genome"
+          },
+          {
+            "id": "T001081367",
+            "string": "Virus Genome Packagings"
+          },
+          {
+            "id": "T056951",
+            "string": "Packaging, Virus"
+          },
+          {
+            "id": "T056951",
+            "string": "Packagings, Virus"
+          },
+          {
+            "id": "T056951",
+            "string": "Virus Packaging"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Viral Genome Packaging",
+    "id": "D000086482"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Viral Packaging Sequence",
+        "id": "M000732546",
+        "scopeNote": "Specific sequences in the viral nucleic acid that are involved in packaging the viral genome (VIRAL GENOME PACKAGING) into the VIRUS PARTICLES.\n                ",
+        "termList": [
+          {
+            "id": "T001079784",
+            "string": "Viral Packaging Sequence"
+          },
+          {
+            "id": "T001079784",
+            "string": "Packaging Sequence, Viral"
+          },
+          {
+            "id": "T001079784",
+            "string": "Packaging Sequences, Viral"
+          },
+          {
+            "id": "T001079784",
+            "string": "Sequence, Viral Packaging"
+          },
+          {
+            "id": "T001079784",
+            "string": "Sequences, Viral Packaging"
+          },
+          {
+            "id": "T001079784",
+            "string": "Viral Packaging Sequences"
+          },
+          {
+            "id": "T001079787",
+            "string": "Virus Packaging Signal Sequence"
+          },
+          {
+            "id": "T001079785",
+            "string": "Viral Packaging Signal Sequence"
+          },
+          {
+            "id": "T001079786",
+            "string": "Virus Packaging Sequence"
+          },
+          {
+            "id": "T001079786",
+            "string": "Packaging Sequence, Virus"
+          },
+          {
+            "id": "T001079786",
+            "string": "Packaging Sequences, Virus"
+          },
+          {
+            "id": "T001079786",
+            "string": "Sequence, Virus Packaging"
+          },
+          {
+            "id": "T001079786",
+            "string": "Sequences, Virus Packaging"
+          },
+          {
+            "id": "T001079786",
+            "string": "Virus Packaging Sequences"
+          }
+        ]
+      },
+      {
+        "conceptName": "Psi-RNA Packaging Signal",
+        "id": "M000733489",
+        "termList": [
+          {
+            "id": "T001081371",
+            "string": "Psi-RNA Packaging Signal"
+          },
+          {
+            "id": "T001081371",
+            "string": "Packaging Signal, Psi-RNA"
+          },
+          {
+            "id": "T001081371",
+            "string": "Packaging Signals, Psi-RNA"
+          },
+          {
+            "id": "T001081371",
+            "string": "Psi RNA Packaging Signal"
+          },
+          {
+            "id": "T001081371",
+            "string": "Psi-RNA Packaging Signals"
+          },
+          {
+            "id": "T001081371",
+            "string": "Signal, Psi-RNA Packaging"
+          },
+          {
+            "id": "T001081371",
+            "string": "Signals, Psi-RNA Packaging"
+          }
+        ]
+      },
+      {
+        "conceptName": "Viral Packaging RNA Sequence",
+        "id": "M000733488",
+        "termList": [
+          {
+            "id": "T001081368",
+            "string": "Viral Packaging RNA Sequence"
+          },
+          {
+            "id": "T001081370",
+            "string": "Viral RNA Packaging Signal Sequence"
+          },
+          {
+            "id": "T001081369",
+            "string": "Viral RNA Packaging Signal"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Viral Packaging Sequence",
+    "id": "D000086502"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Financial Stress",
+        "id": "M000732585",
+        "scopeNote": "In medicine, a term used to describe problems a patient has related to the cost of medical care. Not having health insurance or having a lot of costs for medical care not covered by health insurance can cause financial problems and may lead to debt and bankruptcy. Financial stress can also affect a patient’s quality of life and access to medical care. For example, a patient may not take a prescription medicine or may avoid going to the doctor to save money. Cancer patients are more likely to have financial stress than people without cancer. Also called economic burden, economic hardship, financial burden, financial distress, financial hardship, and financial toxicity. (https://www.cancer.gov/publications/dictionaries/cancer-terms/def/financial-stress)\n                ",
+        "termList": [
+          {
+            "id": "T001079844",
+            "string": "Financial Stress"
+          },
+          {
+            "id": "T001079844",
+            "string": "Financial Stresses"
+          },
+          {
+            "id": "T001079844",
+            "string": "Stress, Financial"
+          },
+          {
+            "id": "T001079844",
+            "string": "Stresses, Financial"
+          },
+          {
+            "id": "T001081413",
+            "string": "Financial Pressures"
+          },
+          {
+            "id": "T001081413",
+            "string": "Financial Pressure"
+          },
+          {
+            "id": "T001081413",
+            "string": "Pressure, Financial"
+          },
+          {
+            "id": "T001081413",
+            "string": "Pressures, Financial"
+          },
+          {
+            "id": "T001081411",
+            "string": "Financial Hardship"
+          },
+          {
+            "id": "T001081411",
+            "string": "Financial Hardships"
+          },
+          {
+            "id": "T001081411",
+            "string": "Hardship, Financial"
+          },
+          {
+            "id": "T001081411",
+            "string": "Hardships, Financial"
+          },
+          {
+            "id": "T001081412",
+            "string": "Financial Challenges"
+          },
+          {
+            "id": "T001081412",
+            "string": "Challenge, Financial"
+          },
+          {
+            "id": "T001081412",
+            "string": "Challenges, Financial"
+          },
+          {
+            "id": "T001081412",
+            "string": "Financial Challenge"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Financial Stress",
+    "id": "D000086522"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Carnivorous Plant",
+        "id": "M000732586",
+        "scopeNote": "Plants adapted to trap and kill insects and other non-plant organisms, deriving nutrients from trapped organisms.\n                ",
+        "termList": [
+          {
+            "id": "T001079845",
+            "string": "Carnivorous Plant"
+          },
+          {
+            "id": "T001079845",
+            "string": "Carnivorous Plants"
+          },
+          {
+            "id": "T001079845",
+            "string": "Plant, Carnivorous"
+          }
+        ]
+      },
+      {
+        "conceptName": "Insectivorous Plants",
+        "id": "M000732588",
+        "termList": [
+          {
+            "id": "T001079849",
+            "string": "Insectivorous Plants"
+          },
+          {
+            "id": "T001079849",
+            "string": "Insectivorous Plant"
+          },
+          {
+            "id": "T001079849",
+            "string": "Plant, Insectivorous"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Carnivorous Plant",
+    "id": "D000086523"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Calliphoridae",
+        "id": "M000732589",
+        "scopeNote": "A family of the superfamily Oestroidea in the order Diptera. Several species are major livestock pests causing MYIASIS by parasitic maggots.\n                ",
+        "termList": [
+          {
+            "id": "T001079851",
+            "string": "Calliphoridae"
+          },
+          {
+            "id": "T001079852",
+            "string": "Blowflies"
+          },
+          {
+            "id": "T001079852",
+            "string": "Blowfly"
+          },
+          {
+            "id": "T001079853",
+            "string": "Blow-Flies"
+          },
+          {
+            "id": "T001079853",
+            "string": "Blow Flies"
+          },
+          {
+            "id": "T001079853",
+            "string": "Blow-Fly"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Calliphoridae",
+    "id": "D000086542"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "American Natives",
+        "id": "M000732705",
+        "scopeNote": "Members of indigenous populations within the United States.with pre-colonial contact origins. .\n                ",
+        "termList": [
+          {
+            "id": "T001080666",
+            "string": "American Natives"
+          },
+          {
+            "id": "T001080666",
+            "string": "American Native"
+          },
+          {
+            "id": "T001080666",
+            "string": "Native, American"
+          },
+          {
+            "id": "T001080666",
+            "string": "Natives, American"
+          },
+          {
+            "id": "T001080028",
+            "string": "Indians, American"
+          },
+          {
+            "id": "T001080028",
+            "string": "American Indian"
+          },
+          {
+            "id": "T001080025",
+            "string": "American Indians"
+          },
+          {
+            "id": "T001080026",
+            "string": "Native Americans"
+          },
+          {
+            "id": "T001080026",
+            "string": "American, Native"
+          },
+          {
+            "id": "T001080026",
+            "string": "Native American"
+          }
+        ]
+      },
+      {
+        "conceptName": "Native Americans, Federally-recognized",
+        "id": "M000733046",
+        "termList": [
+          {
+            "id": "T001080657",
+            "string": "Native Americans, Federally-recognized"
+          },
+          {
+            "id": "T001080657",
+            "string": "American, Federally-recognized Native"
+          },
+          {
+            "id": "T001080657",
+            "string": "Federally-recognized Native American"
+          },
+          {
+            "id": "T001080657",
+            "string": "Federally-recognized Native Americans"
+          },
+          {
+            "id": "T001080657",
+            "string": "Native American, Federally-recognized"
+          },
+          {
+            "id": "T001080657",
+            "string": "Native Americans, Federally recognized"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "American Natives",
+    "id": "D000086562"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Anosmia",
+        "id": "M0001280",
+        "scopeNote": "Complete or severe loss of the subjective sense of smell. Loss of smell may be caused by many factors such as a cold, allergy, OLFACTORY NERVE DISEASES, viral RESPIRATORY TRACT INFECTIONS (e.g., COVID-19), aging and various neurological disorders (e.g., ALZHEIMER DISEASE).\n                ",
+        "termList": [
+          {
+            "id": "T002503",
+            "string": "Anosmia"
+          },
+          {
+            "id": "T001079186",
+            "string": "Loss of Smell"
+          },
+          {
+            "id": "T001079186",
+            "string": "Smell Loss"
+          }
+        ]
+      },
+      {
+        "conceptName": "Hyposmia",
+        "id": "M000732706",
+        "termList": [
+          {
+            "id": "T001080029",
+            "string": "Hyposmia"
+          },
+          {
+            "id": "T001080029",
+            "string": "Hyposmias"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Anosmia",
+    "id": "D000086582"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Pangolins",
+        "id": "M000732732",
+        "scopeNote": "Solitary, chiefly burrowing and nocturnal mammals of the order Pholidota. They have bodies, tails and heads encased in sharp scales, which protect them when rolled up into a ball when threatened. Also called scaly anteaters, pangolins are myrmecophagous mainly eating ants and termites and are distributed in the warmer parts of the Asia and the Africa continents. Chinese pangolins are a potential intermediate DISEASE RESERVOIR of COVID-19 virus, SARS-CoV-2.\n                ",
+        "termList": [
+          {
+            "id": "T001080062",
+            "string": "Pangolins"
+          },
+          {
+            "id": "T001080062",
+            "string": "Pangolin"
+          },
+          {
+            "id": "T001080065",
+            "string": "Pholidota"
+          }
+        ]
+      },
+      {
+        "conceptName": "Manis",
+        "id": "M000733969",
+        "termList": [
+          {
+            "id": "T001080069",
+            "string": "Manis"
+          },
+          {
+            "id": "T001080067",
+            "string": "Scaly Anteaters"
+          },
+          {
+            "id": "T001080067",
+            "string": "Scaly Anteater"
+          }
+        ]
+      },
+      {
+        "conceptName": "Manis pentadactyla",
+        "id": "M000733973",
+        "termList": [
+          {
+            "id": "T001082259",
+            "string": "Manis pentadactyla"
+          },
+          {
+            "id": "T001082261",
+            "string": "Chinese Pangolin"
+          },
+          {
+            "id": "T001082261",
+            "string": "Chinese Pangolins"
+          },
+          {
+            "id": "T001082261",
+            "string": "Pangolin, Chinese"
+          }
+        ]
+      },
+      {
+        "conceptName": "Phataginus",
+        "id": "M000733971",
+        "termList": [
+          {
+            "id": "T001082256",
+            "string": "Phataginus"
+          }
+        ]
+      },
+      {
+        "conceptName": "Smutsia",
+        "id": "M000733972",
+        "termList": [
+          {
+            "id": "T001082257",
+            "string": "Smutsia"
+          }
+        ]
+      },
+      {
+        "conceptName": "Manidae",
+        "id": "M000732734",
+        "termList": [
+          {
+            "id": "T001080064",
+            "string": "Manidae"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Pangolins",
+    "id": "D000086642"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "COVID-19 Vaccines",
+        "id": "M000732754",
+        "scopeNote": "Vaccines or candidate vaccines containing SARS-CoV-2 component antigens, genetic materials, or inactivated SARS-CoV-2 virus, and designed to prevent COVID-19.\n                ",
+        "termList": [
+          {
+            "id": "T001080092",
+            "string": "COVID-19 Vaccines"
+          },
+          {
+            "id": "T001080092",
+            "string": "COVID 19 Vaccines"
+          },
+          {
+            "id": "T001080092",
+            "string": "Vaccines, COVID-19"
+          },
+          {
+            "id": "T001080390",
+            "string": "COVID-19 Virus Vaccines"
+          },
+          {
+            "id": "T001080390",
+            "string": "COVID 19 Virus Vaccines"
+          },
+          {
+            "id": "T001080390",
+            "string": "Vaccines, COVID-19 Virus"
+          },
+          {
+            "id": "T001080390",
+            "string": "Virus Vaccines, COVID-19"
+          },
+          {
+            "id": "T001080391",
+            "string": "COVID-19 Virus Vaccine"
+          },
+          {
+            "id": "T001080391",
+            "string": "COVID 19 Virus Vaccine"
+          },
+          {
+            "id": "T001080391",
+            "string": "Vaccine, COVID-19 Virus"
+          },
+          {
+            "id": "T001080391",
+            "string": "Virus Vaccine, COVID-19"
+          },
+          {
+            "id": "T001080392",
+            "string": "COVID19 Virus Vaccines"
+          },
+          {
+            "id": "T001080392",
+            "string": "Vaccines, COVID19 Virus"
+          },
+          {
+            "id": "T001080392",
+            "string": "Virus Vaccines, COVID19"
+          },
+          {
+            "id": "T001080393",
+            "string": "COVID19 Virus Vaccine"
+          },
+          {
+            "id": "T001080393",
+            "string": "Vaccine, COVID19 Virus"
+          },
+          {
+            "id": "T001080393",
+            "string": "Virus Vaccine, COVID19"
+          },
+          {
+            "id": "T001080394",
+            "string": "COVID19 Vaccines"
+          },
+          {
+            "id": "T001080394",
+            "string": "Vaccines, COVID19"
+          },
+          {
+            "id": "T001080395",
+            "string": "COVID19 Vaccine"
+          },
+          {
+            "id": "T001080395",
+            "string": "Vaccine, COVID19"
+          },
+          {
+            "id": "T001080396",
+            "string": "SARS-CoV-2 Vaccines"
+          },
+          {
+            "id": "T001080396",
+            "string": "SARS CoV 2 Vaccines"
+          },
+          {
+            "id": "T001080396",
+            "string": "Vaccines, SARS-CoV-2"
+          },
+          {
+            "id": "T001080397",
+            "string": "SARS-CoV-2 Vaccine"
+          },
+          {
+            "id": "T001080397",
+            "string": "SARS CoV 2 Vaccine"
+          },
+          {
+            "id": "T001080397",
+            "string": "Vaccine, SARS-CoV-2"
+          },
+          {
+            "id": "T001080398",
+            "string": "SARS2 Vaccines"
+          },
+          {
+            "id": "T001080398",
+            "string": "Vaccines, SARS2"
+          },
+          {
+            "id": "T001080399",
+            "string": "SARS2 Vaccine"
+          },
+          {
+            "id": "T001080399",
+            "string": "Vaccine, SARS2"
+          },
+          {
+            "id": "T001080400",
+            "string": "Coronavirus Disease 2019 Vaccines"
+          },
+          {
+            "id": "T001080401",
+            "string": "Coronavirus Disease 2019 Vaccine"
+          },
+          {
+            "id": "T001080402",
+            "string": "Coronavirus Disease 2019 Virus Vaccine"
+          },
+          {
+            "id": "T001080403",
+            "string": "Coronavirus Disease 2019 Virus Vaccines"
+          },
+          {
+            "id": "T001080404",
+            "string": "Coronavirus Disease-19 Vaccines"
+          },
+          {
+            "id": "T001080404",
+            "string": "Coronavirus Disease 19 Vaccines"
+          },
+          {
+            "id": "T001080404",
+            "string": "Vaccines, Coronavirus Disease-19"
+          },
+          {
+            "id": "T001080405",
+            "string": "Coronavirus Disease-19 Vaccine"
+          },
+          {
+            "id": "T001080405",
+            "string": "Coronavirus Disease 19 Vaccine"
+          },
+          {
+            "id": "T001080405",
+            "string": "Vaccine, Coronavirus Disease-19"
+          },
+          {
+            "id": "T001080386",
+            "string": "COVID 19 Vaccine"
+          },
+          {
+            "id": "T001080386",
+            "string": "Vaccine, COVID 19"
+          },
+          {
+            "id": "T001080388",
+            "string": "2019-nCoV Vaccine"
+          },
+          {
+            "id": "T001080388",
+            "string": "2019 nCoV Vaccine"
+          },
+          {
+            "id": "T001080388",
+            "string": "Vaccine, 2019-nCoV"
+          },
+          {
+            "id": "T001080384",
+            "string": "2019 Novel Coronavirus Vaccines"
+          },
+          {
+            "id": "T001080385",
+            "string": "2019 Novel Coronavirus Vaccine"
+          },
+          {
+            "id": "T001080387",
+            "string": "2019-nCoV Vaccines"
+          },
+          {
+            "id": "T001080387",
+            "string": "2019 nCoV Vaccines"
+          },
+          {
+            "id": "T001080387",
+            "string": "Vaccines, 2019-nCoV"
+          },
+          {
+            "id": "T001080389",
+            "string": "COVID-19 Vaccine"
+          },
+          {
+            "id": "T001080389",
+            "string": "Vaccine, COVID-19"
+          },
+          {
+            "id": "T001082302",
+            "string": "SARS Coronavirus 2 Vaccines"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "COVID-19 Vaccines",
+    "id": "D000086663"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Indigenous Canadians",
+        "id": "M000732785",
+        "scopeNote": "The three groups of indigenous aboriginal peoples of Canada. These include First Nations, Inuit and Métis. These are three distinct peoples with unique histories, languages, cultural practices and spiritual beliefs.\n                ",
+        "termList": [
+          {
+            "id": "T001080125",
+            "string": "Indigenous Canadians"
+          },
+          {
+            "id": "T001080125",
+            "string": "Canadians, Indigenous"
+          },
+          {
+            "id": "T001080125",
+            "string": "Indigenous Canadian"
+          },
+          {
+            "id": "T001080124",
+            "string": "Canadian Natives"
+          },
+          {
+            "id": "T001080124",
+            "string": "Canadian Native"
+          },
+          {
+            "id": "T001080124",
+            "string": "Native, Canadian"
+          },
+          {
+            "id": "T001080124",
+            "string": "Natives, Canadian"
+          },
+          {
+            "id": "T001080664",
+            "string": "Native Canadians"
+          },
+          {
+            "id": "T001080664",
+            "string": "Canadian, Native"
+          },
+          {
+            "id": "T001080664",
+            "string": "Canadians, Native"
+          },
+          {
+            "id": "T001080664",
+            "string": "Native Canadian"
+          }
+        ]
+      },
+      {
+        "conceptName": "Metis Canadians",
+        "id": "M000732906",
+        "termList": [
+          {
+            "id": "T001080246",
+            "string": "Metis Canadians"
+          },
+          {
+            "id": "T001080246",
+            "string": "Canadian, Metis"
+          },
+          {
+            "id": "T001080246",
+            "string": "Canadians, Metis"
+          },
+          {
+            "id": "T001080246",
+            "string": "Metis Canadian"
+          }
+        ]
+      },
+      {
+        "conceptName": "First Nation Canadians",
+        "id": "M000732905",
+        "termList": [
+          {
+            "id": "T001080245",
+            "string": "First Nation Canadians"
+          },
+          {
+            "id": "T001080245",
+            "string": "Canadian, First Nation"
+          },
+          {
+            "id": "T001080245",
+            "string": "Canadians, First Nation"
+          },
+          {
+            "id": "T001080245",
+            "string": "First Nation Canadian"
+          },
+          {
+            "id": "T001080245",
+            "string": "Nation Canadian, First"
+          },
+          {
+            "id": "T001080245",
+            "string": "Nation Canadians, First"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Indigenous Canadians",
+    "id": "D000086682"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Practice Patterns, Pharmacists'",
+        "id": "M000732885",
+        "scopeNote": "Patterns of practice related to how PHARMACISTS prepare or compound PRESCRIPTION DRUGS as especially influenced by cost of the service requested and provided.\n                ",
+        "termList": [
+          {
+            "id": "T001080226",
+            "string": "Practice Patterns, Pharmacists'"
+          },
+          {
+            "id": "T001080226",
+            "string": "Pattern, Pharmacists' Practice"
+          },
+          {
+            "id": "T001080226",
+            "string": "Patterns, Pharmacists' Practice"
+          },
+          {
+            "id": "T001080226",
+            "string": "Pharmacists' Practice Pattern"
+          },
+          {
+            "id": "T001080226",
+            "string": "Pharmacists' Practice Patterns"
+          },
+          {
+            "id": "T001080226",
+            "string": "Practice Pattern, Pharmacists'"
+          },
+          {
+            "id": "T001080226",
+            "string": "Practice Patterns, Pharmacists"
+          },
+          {
+            "id": "T001080227",
+            "string": "Pharmacist's Practice Patterns"
+          },
+          {
+            "id": "T001080227",
+            "string": "Pattern, Pharmacist's Practice"
+          },
+          {
+            "id": "T001080227",
+            "string": "Patterns, Pharmacist's Practice"
+          },
+          {
+            "id": "T001080227",
+            "string": "Pharmacist's Practice Pattern"
+          },
+          {
+            "id": "T001080227",
+            "string": "Pharmacists Practice Patterns"
+          },
+          {
+            "id": "T001080227",
+            "string": "Practice Pattern, Pharmacist's"
+          },
+          {
+            "id": "T001080227",
+            "string": "Practice Patterns, Pharmacist's"
+          },
+          {
+            "id": "T001080224",
+            "string": "Practice Pattern, Pharmacist"
+          },
+          {
+            "id": "T001080224",
+            "string": "Pattern, Pharmacist Practice"
+          },
+          {
+            "id": "T001080224",
+            "string": "Patterns, Pharmacist Practice"
+          },
+          {
+            "id": "T001080224",
+            "string": "Pharmacist Practice Pattern"
+          },
+          {
+            "id": "T001080224",
+            "string": "Pharmacist Practice Patterns"
+          },
+          {
+            "id": "T001080224",
+            "string": "Practice Patterns, Pharmacist"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Practice Patterns, Pharmacists'",
+    "id": "D000086702"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Rhinorrhea",
+        "id": "M000732890",
+        "scopeNote": "Excess nasal drainage.\n                ",
+        "termList": [
+          {
+            "id": "T001080233",
+            "string": "Rhinorrhea"
+          },
+          {
+            "id": "T001080234",
+            "string": "Runny Nose"
+          },
+          {
+            "id": "T001080234",
+            "string": "Nose, Runny"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Rhinorrhea",
+    "id": "D000086722"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Clinical Reasoning",
+        "id": "M000732891",
+        "scopeNote": "Process by which clinicians collect signs and process information to understand the patient's medical situation or problem, and then plan and implement appropriate medical interventions.\n                ",
+        "termList": [
+          {
+            "id": "T001080235",
+            "string": "Clinical Reasoning"
+          },
+          {
+            "id": "T001080235",
+            "string": "Reasoning, Clinical"
+          },
+          {
+            "id": "T001080244",
+            "string": "Clinical Judgement"
+          },
+          {
+            "id": "T001080244",
+            "string": "Clinical Judgements"
+          },
+          {
+            "id": "T001080244",
+            "string": "Judgement, Clinical"
+          },
+          {
+            "id": "T001080244",
+            "string": "Judgements, Clinical"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Clinical Reasoning",
+    "id": "D000086723"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "COVID-19 Testing",
+        "id": "M000732988",
+        "scopeNote": "Diagnosis of COVID-19 by assaying bodily fluids or tissues for the presence of COVID-19 antibodies, SARS-COV-2 antigens or the VIRAL RNA of SARS-COV-2.\n                ",
+        "termList": [
+          {
+            "id": "T001081167",
+            "string": "COVID-19 Testing"
+          },
+          {
+            "id": "T001081167",
+            "string": "COVID 19 Testing"
+          },
+          {
+            "id": "T001081167",
+            "string": "COVID-19 Testings"
+          },
+          {
+            "id": "T001081167",
+            "string": "Testing, COVID-19"
+          },
+          {
+            "id": "T001082228",
+            "string": "SARS Coronavirus 2 Testing"
+          },
+          {
+            "id": "T001080471",
+            "string": "COVID-19 Virus Testing"
+          },
+          {
+            "id": "T001080471",
+            "string": "COVID 19 Virus Testing"
+          },
+          {
+            "id": "T001080471",
+            "string": "COVID-19 Virus Testings"
+          },
+          {
+            "id": "T001080471",
+            "string": "Testing, COVID-19 Virus"
+          },
+          {
+            "id": "T001080471",
+            "string": "Virus Testing, COVID-19"
+          },
+          {
+            "id": "T001080472",
+            "string": "COVID19 Testing"
+          },
+          {
+            "id": "T001080472",
+            "string": "COVID19 Testings"
+          },
+          {
+            "id": "T001080472",
+            "string": "Testing, COVID19"
+          },
+          {
+            "id": "T001080473",
+            "string": "COVID19 Virus Testing"
+          },
+          {
+            "id": "T001080473",
+            "string": "COVID19 Virus Testings"
+          },
+          {
+            "id": "T001080473",
+            "string": "Testing, COVID19 Virus"
+          },
+          {
+            "id": "T001080473",
+            "string": "Virus Testing, COVID19"
+          },
+          {
+            "id": "T001080474",
+            "string": "SARS-CoV-2 Testing"
+          },
+          {
+            "id": "T001080474",
+            "string": "SARS CoV 2 Testing"
+          },
+          {
+            "id": "T001080474",
+            "string": "SARS-CoV-2 Testings"
+          },
+          {
+            "id": "T001080474",
+            "string": "Testing, SARS-CoV-2"
+          },
+          {
+            "id": "T001080475",
+            "string": "Coronavirus Disease 2019 Testing"
+          },
+          {
+            "id": "T001080464",
+            "string": "2019 Novel Coronavirus Disease Testing"
+          },
+          {
+            "id": "T001080465",
+            "string": "2019 Novel Coronavirus Testing"
+          },
+          {
+            "id": "T001080466",
+            "string": "2019-nCoV Disease Testing"
+          },
+          {
+            "id": "T001080466",
+            "string": "2019 nCoV Disease Testing"
+          },
+          {
+            "id": "T001080466",
+            "string": "2019-nCoV Disease Testings"
+          },
+          {
+            "id": "T001080466",
+            "string": "Disease Testing, 2019-nCoV"
+          },
+          {
+            "id": "T001080466",
+            "string": "Testing, 2019-nCoV Disease"
+          },
+          {
+            "id": "T001080467",
+            "string": "2019-nCoV Infection Testing"
+          },
+          {
+            "id": "T001080467",
+            "string": "2019 nCoV Infection Testing"
+          },
+          {
+            "id": "T001080467",
+            "string": "2019-nCoV Infection Testings"
+          },
+          {
+            "id": "T001080467",
+            "string": "Infection Testing, 2019-nCoV"
+          },
+          {
+            "id": "T001080467",
+            "string": "Testing, 2019-nCoV Infection"
+          },
+          {
+            "id": "T001080469",
+            "string": "COVID-19 Diagnostic Testing"
+          },
+          {
+            "id": "T001080469",
+            "string": "COVID 19 Diagnostic Testing"
+          },
+          {
+            "id": "T001080469",
+            "string": "COVID-19 Diagnostic Testings"
+          },
+          {
+            "id": "T001080469",
+            "string": "Diagnostic Testing, COVID-19"
+          },
+          {
+            "id": "T001080477",
+            "string": "Severe Acute Respiratory Syndrome Coronavirus 2 Testing"
+          },
+          {
+            "id": "T001080476",
+            "string": "Coronavirus Disease-19 Testing"
+          },
+          {
+            "id": "T001080476",
+            "string": "Coronavirus Disease 19 Testing"
+          },
+          {
+            "id": "T001080476",
+            "string": "Coronavirus Disease-19 Testings"
+          },
+          {
+            "id": "T001080476",
+            "string": "Testing, Coronavirus Disease-19"
+          },
+          {
+            "id": "T001080470",
+            "string": "2019-nCoV Testing"
+          },
+          {
+            "id": "T001080470",
+            "string": "2019 nCoV Testing"
+          },
+          {
+            "id": "T001080470",
+            "string": "2019-nCoV Testings"
+          },
+          {
+            "id": "T001080470",
+            "string": "Testing, 2019-nCoV"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "COVID-19 Testing",
+    "id": "D000086742"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Automated Facial Recognition",
+        "id": "M0528782",
+        "scopeNote": "Electronic identification of a human based on attributes of the face.\n                ",
+        "termList": [
+          {
+            "id": "T733786",
+            "string": "Automated Facial Recognition"
+          },
+          {
+            "id": "T733786",
+            "string": "Recognition, Automated Facial"
+          },
+          {
+            "id": "T001080525",
+            "string": "Facial Recognition, Automated"
+          },
+          {
+            "id": "T001081444",
+            "string": "Automated Facial Identity Recognition"
+          }
+        ]
+      },
+      {
+        "conceptName": "Facial Recognition Technology",
+        "id": "M000733474",
+        "termList": [
+          {
+            "id": "T001081353",
+            "string": "Facial Recognition Technology"
+          },
+          {
+            "id": "T001081353",
+            "string": "Facial Recognition Technologies"
+          },
+          {
+            "id": "T001081353",
+            "string": "Recognition Technologies, Facial"
+          },
+          {
+            "id": "T001081353",
+            "string": "Recognition Technology, Facial"
+          },
+          {
+            "id": "T001081353",
+            "string": "Technologies, Facial Recognition"
+          },
+          {
+            "id": "T001081353",
+            "string": "Technology, Facial Recognition"
+          }
+        ]
+      },
+      {
+        "conceptName": "Facial Approximation",
+        "id": "M000733005",
+        "termList": [
+          {
+            "id": "T001080526",
+            "string": "Facial Approximation"
+          },
+          {
+            "id": "T001080526",
+            "string": "Approximation, Facial"
+          },
+          {
+            "id": "T001080526",
+            "string": "Approximations, Facial"
+          },
+          {
+            "id": "T001080526",
+            "string": "Facial Approximations"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Automated Facial Recognition",
+    "id": "D000086762"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Coronavirus 3C Proteases",
+        "id": "M000733006",
+        "scopeNote": "3C proteases that occur in species of CORONAVIRIDAE.\n                ",
+        "termList": [
+          {
+            "id": "T001080528",
+            "string": "Coronavirus 3C Proteases"
+          },
+          {
+            "id": "T001080547",
+            "string": "M(pro) Protein, Coronavirus"
+          },
+          {
+            "id": "T001081111",
+            "string": "Chymotrypsin-Like Main Protease, Coronavirus"
+          },
+          {
+            "id": "T001081111",
+            "string": "Chymotrypsin Like Main Protease, Coronavirus"
+          },
+          {
+            "id": "T001081110",
+            "string": "3C-Like Proteinase, Coronavirus"
+          },
+          {
+            "id": "T001081110",
+            "string": "3C Like Proteinase, Coronavirus"
+          },
+          {
+            "id": "T001081110",
+            "string": "Coronavirus 3C-Like Proteinase"
+          },
+          {
+            "id": "T001080544",
+            "string": "3C Proteases, Coronavirus"
+          },
+          {
+            "id": "T001081107",
+            "string": "Coronavirus 3C Proteinases"
+          },
+          {
+            "id": "T001081107",
+            "string": "3C Proteinases, Coronavirus"
+          },
+          {
+            "id": "T001081107",
+            "string": "Proteinases, Coronavirus 3C"
+          },
+          {
+            "id": "T001081108",
+            "string": "Coronavirus 3CLpro Proteinase"
+          },
+          {
+            "id": "T001081108",
+            "string": "3CLpro Proteinase, Coronavirus"
+          },
+          {
+            "id": "T001081108",
+            "string": "Proteinase, Coronavirus 3CLpro"
+          },
+          {
+            "id": "T001081109",
+            "string": "Coronavirus 3CLpro Proteases"
+          },
+          {
+            "id": "T001081109",
+            "string": "3CLpro Proteases, Coronavirus"
+          },
+          {
+            "id": "T001080546",
+            "string": "Mpro Protein, Coronavirus"
+          },
+          {
+            "id": "T001080546",
+            "string": "Coronavirus Mpro Protein"
+          },
+          {
+            "id": "T001080549",
+            "string": "Main Proteinase, Coronavirus"
+          },
+          {
+            "id": "T001080549",
+            "string": "Coronavirus Main Proteinase"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Coronavirus 3C Proteases",
+    "id": "D000086782"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Disease Hotspot",
+        "id": "M000733025",
+        "scopeNote": "Areas of increased disease risk, prevalence, incidence or higher efficiency of transmission.\n                ",
+        "termList": [
+          {
+            "id": "T001080607",
+            "string": "Disease Hotspot"
+          },
+          {
+            "id": "T001080607",
+            "string": "Disease Hotspots"
+          },
+          {
+            "id": "T001080607",
+            "string": "Hotspot, Disease"
+          },
+          {
+            "id": "T001080607",
+            "string": "Hotspots, Disease"
+          },
+          {
+            "id": "T001081410",
+            "string": "Disease Hotspot Burden"
+          },
+          {
+            "id": "T001081410",
+            "string": "Burden, Disease Hotspot"
+          },
+          {
+            "id": "T001081410",
+            "string": "Burdens, Disease Hotspot"
+          },
+          {
+            "id": "T001081410",
+            "string": "Disease Hotspot Burdens"
+          },
+          {
+            "id": "T001081410",
+            "string": "Hotspot Burden, Disease"
+          },
+          {
+            "id": "T001081410",
+            "string": "Hotspot Burdens, Disease"
+          },
+          {
+            "id": "T001084426",
+            "string": "Spatial Cluster, Disease"
+          },
+          {
+            "id": "T001084426",
+            "string": "Cluster, Disease Spatial"
+          },
+          {
+            "id": "T001084426",
+            "string": "Clusters, Disease Spatial"
+          },
+          {
+            "id": "T001084426",
+            "string": "Disease Spatial Cluster"
+          },
+          {
+            "id": "T001084426",
+            "string": "Disease Spatial Clusters"
+          },
+          {
+            "id": "T001084426",
+            "string": "Spatial Clusters, Disease"
+          },
+          {
+            "id": "T001080605",
+            "string": "Transmission Hotspot"
+          },
+          {
+            "id": "T001080605",
+            "string": "Hotspot, Transmission"
+          },
+          {
+            "id": "T001080605",
+            "string": "Hotspots, Transmission"
+          },
+          {
+            "id": "T001080605",
+            "string": "Transmission Hotspots"
+          },
+          {
+            "id": "T001080606",
+            "string": "Burden Hotspot"
+          },
+          {
+            "id": "T001080606",
+            "string": "Burden Hotspots"
+          },
+          {
+            "id": "T001080606",
+            "string": "Hotspot, Burden"
+          },
+          {
+            "id": "T001080606",
+            "string": "Hotspots, Burden"
+          },
+          {
+            "id": "T001084427",
+            "string": "Disease Clusters"
+          },
+          {
+            "id": "T001084427",
+            "string": "Cluster, Disease"
+          },
+          {
+            "id": "T001084427",
+            "string": "Clusters, Disease"
+          },
+          {
+            "id": "T001084427",
+            "string": "Disease Cluster"
+          },
+          {
+            "id": "T001080604",
+            "string": "Disease Hot Spot"
+          },
+          {
+            "id": "T001080604",
+            "string": "Disease Hot Spots"
+          },
+          {
+            "id": "T001080604",
+            "string": "Hot Spot, Disease"
+          },
+          {
+            "id": "T001080604",
+            "string": "Hot Spots, Disease"
+          }
+        ]
+      },
+      {
+        "conceptName": "Disease Clustering",
+        "id": "M0024461",
+        "termList": [
+          {
+            "id": "T047493",
+            "string": "Disease Clustering"
+          },
+          {
+            "id": "T047493",
+            "string": "Clustering, Disease"
+          },
+          {
+            "id": "T047493",
+            "string": "Clusterings, Disease"
+          },
+          {
+            "id": "T047493",
+            "string": "Disease Clusterings"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Disease Hotspot",
+    "id": "D000086822"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "User-Centered Design",
+        "id": "M000733029",
+        "scopeNote": "Design process using input from users regarding systems, devices, or software.\n                ",
+        "termList": [
+          {
+            "id": "T001080612",
+            "string": "User-Centered Design"
+          },
+          {
+            "id": "T001080612",
+            "string": "Design, User-Centered"
+          },
+          {
+            "id": "T001080612",
+            "string": "Designs, User-Centered"
+          },
+          {
+            "id": "T001080612",
+            "string": "User Centered Design"
+          },
+          {
+            "id": "T001080612",
+            "string": "User-Centered Designs"
+          },
+          {
+            "id": "T001084428",
+            "string": "Usability Testing"
+          },
+          {
+            "id": "T001084428",
+            "string": "Testing, Usability"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "User-Centered Design",
+    "id": "D000086825"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Uridylate-Specific Endoribonucleases",
+        "id": "M000733030",
+        "scopeNote": "Endoribonucleases that cleave RNA at 5'-polyuridine locations within the RNA strand.\n                ",
+        "termList": [
+          {
+            "id": "T001080613",
+            "string": "Uridylate-Specific Endoribonucleases"
+          },
+          {
+            "id": "T001080613",
+            "string": "Endoribonucleases, Uridylate-Specific"
+          },
+          {
+            "id": "T001080613",
+            "string": "Uridylate Specific Endoribonucleases"
+          },
+          {
+            "id": "T001080614",
+            "string": "ENDOU"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Uridylate-Specific Endoribonucleases",
+    "id": "D000086842"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Coronavirus M Proteins",
+        "id": "M000733056",
+        "scopeNote": "Viral matrix proteins found in species of CORONAVIRIDAE.\n                ",
+        "termList": [
+          {
+            "id": "T001080708",
+            "string": "Coronavirus M Proteins"
+          },
+          {
+            "id": "T001080708",
+            "string": "M Proteins, Coronavirus"
+          },
+          {
+            "id": "T001080739",
+            "string": "M Protein, Coronavirus"
+          },
+          {
+            "id": "T001080692",
+            "string": "Coronavirus M Protein"
+          }
+        ]
+      },
+      {
+        "conceptName": "Coronavirus Membrane Proteins",
+        "id": "M000733053",
+        "termList": [
+          {
+            "id": "T001080735",
+            "string": "Coronavirus Membrane Proteins"
+          },
+          {
+            "id": "T001080735",
+            "string": "Membrane Proteins, Coronavirus"
+          }
+        ]
+      },
+      {
+        "conceptName": "Coronavirus Matrix Proteins",
+        "id": "M000733052",
+        "termList": [
+          {
+            "id": "T001080685",
+            "string": "Coronavirus Matrix Proteins"
+          },
+          {
+            "id": "T001080685",
+            "string": "Matrix Proteins, Coronavirus"
+          }
+        ]
+      },
+      {
+        "conceptName": "Coronavirus Membrane Glycoproteins",
+        "id": "M000733054",
+        "termList": [
+          {
+            "id": "T001080689",
+            "string": "Coronavirus Membrane Glycoproteins"
+          },
+          {
+            "id": "T001080689",
+            "string": "Membrane Glycoproteins, Coronavirus"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Coronavirus M Proteins",
+    "id": "D000086862"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Coronavirus Papain-Like Proteases",
+        "id": "M000733086",
+        "scopeNote": "Papain-like proteases the occur in species of CORONAVIRIDAE. Some species have more than one gene.\n                ",
+        "termList": [
+          {
+            "id": "T001080784",
+            "string": "Coronavirus Papain-Like Proteases"
+          },
+          {
+            "id": "T001080784",
+            "string": "Coronavirus Papain Like Proteases"
+          },
+          {
+            "id": "T001080784",
+            "string": "Papain-Like Proteases, Coronavirus"
+          },
+          {
+            "id": "T001080804",
+            "string": "Papain-Like Protease, Coronavirus"
+          },
+          {
+            "id": "T001080804",
+            "string": "Papain Like Protease, Coronavirus"
+          }
+        ]
+      },
+      {
+        "conceptName": "Papain-Like Proteinase 1, Coronavirus",
+        "id": "M0247773",
+        "termList": [
+          {
+            "id": "T001080879",
+            "string": "Papain-Like Proteinase 1, Coronavirus"
+          },
+          {
+            "id": "T001080879",
+            "string": "Papain Like Proteinase 1, Coronavirus"
+          },
+          {
+            "id": "T001080880",
+            "string": "PLP-1 Protein, Coronavirus"
+          },
+          {
+            "id": "T001080880",
+            "string": "Coronavirus PLP-1 Protein"
+          },
+          {
+            "id": "T001080880",
+            "string": "PLP 1 Protein, Coronavirus"
+          }
+        ]
+      },
+      {
+        "conceptName": "Papain-Like Proteinase 3, Coronavirus",
+        "id": "M000683941",
+        "termList": [
+          {
+            "id": "T001080883",
+            "string": "Papain-Like Proteinase 3, Coronavirus"
+          },
+          {
+            "id": "T001080883",
+            "string": "Papain Like Proteinase 3, Coronavirus"
+          },
+          {
+            "id": "T001080884",
+            "string": "PLP-3 Protein, Coronavirus"
+          },
+          {
+            "id": "T001080884",
+            "string": "Coronavirus PLP-3 Protein"
+          },
+          {
+            "id": "T001080884",
+            "string": "PLP 3 Protein, Coronavirus"
+          }
+        ]
+      },
+      {
+        "conceptName": "Papain-Like Proteinase 2, Coronavirus",
+        "id": "M0454779",
+        "termList": [
+          {
+            "id": "T001080881",
+            "string": "Papain-Like Proteinase 2, Coronavirus"
+          },
+          {
+            "id": "T001080881",
+            "string": "Papain Like Proteinase 2, Coronavirus"
+          },
+          {
+            "id": "T001080882",
+            "string": "PLP-2 Protein, Coronavirus"
+          },
+          {
+            "id": "T001080882",
+            "string": "Coronavirus PLP-2 Protein"
+          },
+          {
+            "id": "T001080882",
+            "string": "PLP 2 Protein, Coronavirus"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Coronavirus Papain-Like Proteases",
+    "id": "D000086882"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Viral Replicase Complex Proteins",
+        "id": "M000733133",
+        "scopeNote": "Viral genome-encoded enzymes that facilitate the replication of RNA VIRUSES.\n                ",
+        "termList": [
+          {
+            "id": "T001081284",
+            "string": "Viral Replicase Complex Proteins"
+          },
+          {
+            "id": "T001080875",
+            "string": "Viral Replicase Proteins"
+          },
+          {
+            "id": "T001080875",
+            "string": "Replicase Proteins, Viral"
+          }
+        ]
+      },
+      {
+        "conceptName": "Viral RNA Polymerases",
+        "id": "M000733146",
+        "termList": [
+          {
+            "id": "T001080868",
+            "string": "Viral RNA Polymerases"
+          },
+          {
+            "id": "T001080868",
+            "string": "RNA Polymerases, Viral"
+          }
+        ]
+      },
+      {
+        "conceptName": "Viral Replicases",
+        "id": "M000733148",
+        "termList": [
+          {
+            "id": "T001080859",
+            "string": "Viral Replicases"
+          },
+          {
+            "id": "T001080859",
+            "string": "Replicases, Viral"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Viral Replicase Complex Proteins",
+    "id": "D000086902"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "ADP-Ribose 1''-Phosphate Phosphatases",
+        "id": "M000733147",
+        "scopeNote": "Enzymes that are highly specific for hydrolysis of the D-ribose 1 phosphate bond of ADP-D-ribose 1''-phosphate to produce ADP-D-ribose and phosphate ion.\n                ",
+        "termList": [
+          {
+            "id": "T001080874",
+            "string": "ADP-Ribose 1''-Phosphate Phosphatases"
+          },
+          {
+            "id": "T001080874",
+            "string": "ADP Ribose 1'' Phosphate Phosphatases"
+          },
+          {
+            "id": "T001080874",
+            "string": "Phosphatases, ADP-Ribose 1''-Phosphate"
+          },
+          {
+            "id": "T001080871",
+            "string": "Appr1p Phosphatase"
+          },
+          {
+            "id": "T001080873",
+            "string": "ADP-Ribose 1''-Phosphate Phosphatase"
+          },
+          {
+            "id": "T001080873",
+            "string": "ADP Ribose 1'' Phosphate Phosphatase"
+          },
+          {
+            "id": "T001080873",
+            "string": "Phosphatase, ADP-Ribose 1''-Phosphate"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "ADP-Ribose 1''-Phosphate Phosphatases",
+    "id": "D000086922"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Viral Envelope",
+        "id": "M000733149",
+        "scopeNote": "Bilayer lipid membrane acquired by VIRAL PARTICLES during VIRAL MORPHOGENESIS. Although the LIPIDS of the viral envelope are host derived, various virus-encoded INTEGRAL MEMBRANE PROTEINS, i.e. VIRAL ENVELOPE PROTEINS are incorporated there.\n                ",
+        "termList": [
+          {
+            "id": "T001080877",
+            "string": "Viral Envelope"
+          },
+          {
+            "id": "T001080877",
+            "string": "Envelope, Viral"
+          },
+          {
+            "id": "T001080877",
+            "string": "Envelopes, Viral"
+          },
+          {
+            "id": "T001080877",
+            "string": "Viral Envelopes"
+          },
+          {
+            "id": "T001080878",
+            "string": "Virus Envelope"
+          },
+          {
+            "id": "T001080878",
+            "string": "Envelope, Virus"
+          },
+          {
+            "id": "T001080878",
+            "string": "Envelopes, Virus"
+          },
+          {
+            "id": "T001080878",
+            "string": "Virus Envelopes"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Viral Envelope",
+    "id": "D000086942"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Viral Zoonoses",
+        "id": "M000733168",
+        "scopeNote": "Viral infections that may be transmitted between non-human animals and HUMANS.\n                ",
+        "termList": [
+          {
+            "id": "T001080911",
+            "string": "Viral Zoonoses"
+          },
+          {
+            "id": "T001080911",
+            "string": "Viral Zoonose"
+          },
+          {
+            "id": "T001080911",
+            "string": "Zoonose, Viral"
+          },
+          {
+            "id": "T001080911",
+            "string": "Zoonoses, Viral"
+          },
+          {
+            "id": "T001081434",
+            "string": "Viral Zoonosis"
+          },
+          {
+            "id": "T001081434",
+            "string": "Zoonosis, Viral"
+          },
+          {
+            "id": "T001081437",
+            "string": "Viral Zoonotic Infections"
+          },
+          {
+            "id": "T001081437",
+            "string": "Infection, Viral Zoonotic"
+          },
+          {
+            "id": "T001081437",
+            "string": "Infections, Viral Zoonotic"
+          },
+          {
+            "id": "T001081437",
+            "string": "Viral Zoonotic Infection"
+          },
+          {
+            "id": "T001081437",
+            "string": "Zoonotic Infection, Viral"
+          },
+          {
+            "id": "T001081437",
+            "string": "Zoonotic Infections, Viral"
+          },
+          {
+            "id": "T001081435",
+            "string": "Viral Zoonotic Diseases"
+          },
+          {
+            "id": "T001081435",
+            "string": "Disease, Viral Zoonotic"
+          },
+          {
+            "id": "T001081435",
+            "string": "Diseases, Viral Zoonotic"
+          },
+          {
+            "id": "T001081435",
+            "string": "Zoonotic Disease, Viral"
+          },
+          {
+            "id": "T001081435",
+            "string": "Zoonotic Diseases, Viral"
+          },
+          {
+            "id": "T001081436",
+            "string": "Viral Zoonotic Disease"
+          },
+          {
+            "id": "T001082616",
+            "string": "Zoonotic Spillover, Viral"
+          },
+          {
+            "id": "T001082616",
+            "string": "Viral Zoonotic Spillover"
+          },
+          {
+            "id": "T001082616",
+            "string": "Viral Zoonotic Spillovers"
+          },
+          {
+            "id": "T001082616",
+            "string": "Zoonotic Spillovers, Viral"
+          },
+          {
+            "id": "T001080914",
+            "string": "Zoonotic Viral Infections"
+          },
+          {
+            "id": "T001080914",
+            "string": "Infection, Zoonotic Viral"
+          },
+          {
+            "id": "T001080914",
+            "string": "Infections, Zoonotic Viral"
+          },
+          {
+            "id": "T001080914",
+            "string": "Viral Infection, Zoonotic"
+          },
+          {
+            "id": "T001080914",
+            "string": "Viral Infections, Zoonotic"
+          },
+          {
+            "id": "T001080914",
+            "string": "Zoonotic Viral Infection"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Viral Zoonoses",
+    "id": "D000086965"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Bacterial Zoonoses",
+        "id": "M000733169",
+        "scopeNote": "Bacterial infections that may be transmitted between non-human animals and HUMANS.\n                ",
+        "termList": [
+          {
+            "id": "T001080912",
+            "string": "Bacterial Zoonoses"
+          },
+          {
+            "id": "T001080912",
+            "string": "Bacterial Zoonose"
+          },
+          {
+            "id": "T001080912",
+            "string": "Zoonose, Bacterial"
+          },
+          {
+            "id": "T001080912",
+            "string": "Zoonoses, Bacterial"
+          },
+          {
+            "id": "T001080913",
+            "string": "Zoonotic Bacterial Infections"
+          },
+          {
+            "id": "T001080913",
+            "string": "Bacterial Infection, Zoonotic"
+          },
+          {
+            "id": "T001080913",
+            "string": "Bacterial Infections, Zoonotic"
+          },
+          {
+            "id": "T001080913",
+            "string": "Infection, Zoonotic Bacterial"
+          },
+          {
+            "id": "T001080913",
+            "string": "Infections, Zoonotic Bacterial"
+          },
+          {
+            "id": "T001080913",
+            "string": "Zoonotic Bacterial Infection"
+          },
+          {
+            "id": "T001081441",
+            "string": "Bacterial Zoonosis"
+          },
+          {
+            "id": "T001081441",
+            "string": "Zoonosis, Bacterial"
+          },
+          {
+            "id": "T001081439",
+            "string": "Bacterial Zoonotic Diseases"
+          },
+          {
+            "id": "T001081439",
+            "string": "Bacterial Zoonotic Disease"
+          },
+          {
+            "id": "T001081439",
+            "string": "Disease, Bacterial Zoonotic"
+          },
+          {
+            "id": "T001081439",
+            "string": "Diseases, Bacterial Zoonotic"
+          },
+          {
+            "id": "T001081439",
+            "string": "Zoonotic Disease, Bacterial"
+          },
+          {
+            "id": "T001081439",
+            "string": "Zoonotic Diseases, Bacterial"
+          },
+          {
+            "id": "T001081440",
+            "string": "Zoonotic Bacterial Diseases"
+          },
+          {
+            "id": "T001081440",
+            "string": "Bacterial Disease, Zoonotic"
+          },
+          {
+            "id": "T001081440",
+            "string": "Bacterial Diseases, Zoonotic"
+          },
+          {
+            "id": "T001081440",
+            "string": "Disease, Zoonotic Bacterial"
+          },
+          {
+            "id": "T001081440",
+            "string": "Diseases, Zoonotic Bacterial"
+          },
+          {
+            "id": "T001081440",
+            "string": "Zoonotic Bacterial Disease"
+          },
+          {
+            "id": "T001082615",
+            "string": "Zoonotic Spillover, Bacterial"
+          },
+          {
+            "id": "T001082615",
+            "string": "Bacterial Zoonotic Spillover"
+          },
+          {
+            "id": "T001082615",
+            "string": "Bacterial Zoonotic Spillovers"
+          },
+          {
+            "id": "T001082615",
+            "string": "Zoonotic Spillovers, Bacterial"
+          },
+          {
+            "id": "T001081438",
+            "string": "Bacterial Zoonotic Infections"
+          },
+          {
+            "id": "T001081438",
+            "string": "Bacterial Zoonotic Infection"
+          },
+          {
+            "id": "T001081438",
+            "string": "Infection, Bacterial Zoonotic"
+          },
+          {
+            "id": "T001081438",
+            "string": "Infections, Bacterial Zoonotic"
+          },
+          {
+            "id": "T001081438",
+            "string": "Zoonotic Infection, Bacterial"
+          },
+          {
+            "id": "T001081438",
+            "string": "Zoonotic Infections, Bacterial"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Bacterial Zoonoses",
+    "id": "D000086966"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Host Adaptation",
+        "id": "M000733170",
+        "scopeNote": "Genetic changes that allow an infectious organism to develop a symbiotic relationship with the organism they infect or jump a species barrier to infect a new host organism.\n                ",
+        "termList": [
+          {
+            "id": "T001080915",
+            "string": "Host Adaptation"
+          },
+          {
+            "id": "T001080915",
+            "string": "Adaptation, Host"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Host Adaptation",
+    "id": "D000086967"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Coronavirus Envelope Proteins",
+        "id": "M000733172",
+        "scopeNote": "Membrane proteins in the VIRAL ENVELOPE of CORONAVIRUSES.\n                ",
+        "termList": [
+          {
+            "id": "T001080917",
+            "string": "Coronavirus Envelope Proteins"
+          },
+          {
+            "id": "T001080917",
+            "string": "Envelope Proteins, Coronavirus"
+          },
+          {
+            "id": "T001080918",
+            "string": "Coronavirus Envelope Glycoproteins"
+          },
+          {
+            "id": "T001080918",
+            "string": "Envelope Glycoproteins, Coronavirus"
+          }
+        ]
+      },
+      {
+        "conceptName": "Coronavirus Peplomer Protein E2 JHM",
+        "id": "M0022711",
+        "termList": [
+          {
+            "id": "T043155",
+            "string": "Coronavirus Peplomer Protein E2 JHM"
+          }
+        ]
+      },
+      {
+        "conceptName": "Coronavirus Peplomer Protein E1",
+        "id": "M0022710",
+        "termList": [
+          {
+            "id": "T043154",
+            "string": "Coronavirus Peplomer Protein E1"
+          }
+        ]
+      },
+      {
+        "conceptName": "Corona Virus Membrane Protein E1",
+        "id": "M0022708",
+        "termList": [
+          {
+            "id": "T043152",
+            "string": "Corona Virus Membrane Protein E1"
+          },
+          {
+            "id": "T043153",
+            "string": "Coronavirus gpE1"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Coronavirus Envelope Proteins",
+    "id": "D000086968"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Viral Replication Compartments",
+        "id": "M000733173",
+        "scopeNote": "Sites in the host cell where the virus induces the formation of cellular assemblies for the replication of the VIRAL GENOME.\n                ",
+        "termList": [
+          {
+            "id": "T001080920",
+            "string": "Viral Replication Compartments"
+          },
+          {
+            "id": "T001080920",
+            "string": "Replication Compartment, Viral"
+          },
+          {
+            "id": "T001080920",
+            "string": "Replication Compartments, Viral"
+          },
+          {
+            "id": "T001080920",
+            "string": "Viral Replication Compartment"
+          },
+          {
+            "id": "T001081373",
+            "string": "Viral Replication Centers"
+          },
+          {
+            "id": "T001081373",
+            "string": "Replication Center, Viral"
+          },
+          {
+            "id": "T001081373",
+            "string": "Replication Centers, Viral"
+          },
+          {
+            "id": "T001081373",
+            "string": "Viral Replication Center"
+          },
+          {
+            "id": "T001081374",
+            "string": "Virus Replication Centers"
+          },
+          {
+            "id": "T001081374",
+            "string": "Replication Center, Virus"
+          },
+          {
+            "id": "T001081374",
+            "string": "Replication Centers, Virus"
+          },
+          {
+            "id": "T001081374",
+            "string": "Virus Replication Center"
+          },
+          {
+            "id": "T001081379",
+            "string": "Viral Factory"
+          },
+          {
+            "id": "T001081376",
+            "string": "Virus Factories"
+          },
+          {
+            "id": "T001081377",
+            "string": "Virus Factory"
+          },
+          {
+            "id": "T001081378",
+            "string": "Viral Factories"
+          },
+          {
+            "id": "T001081372",
+            "string": "Virus Replication Compartments"
+          },
+          {
+            "id": "T001081372",
+            "string": "Replication Compartment, Virus"
+          },
+          {
+            "id": "T001081372",
+            "string": "Replication Compartments, Virus"
+          },
+          {
+            "id": "T001081372",
+            "string": "Virus Replication Compartment"
+          },
+          {
+            "id": "T001081375",
+            "string": "Viroplasm"
+          }
+        ]
+      },
+      {
+        "conceptName": "Virus-Induced Double-Membrane Vesicles",
+        "id": "M000734328",
+        "scopeNote": "Cytoplasmic, virus-induced double-membrane structures, derived from ENDOPLASMIC RETICULUM or GOLGI APPARATUS, that house the replication and transcription enzyme complexes of NIDOVIRALES and PICORNAVIRIDAE.\n                ",
+        "termList": [
+          {
+            "id": "T001081382",
+            "string": "Virus-Induced Double-Membrane Vesicles"
+          },
+          {
+            "id": "T001081382",
+            "string": "Virus Induced Double Membrane Vesicles"
+          },
+          {
+            "id": "T001083208",
+            "string": "Double-Membrane Vesicles, Virus-Induced"
+          },
+          {
+            "id": "T001083208",
+            "string": "Double Membrane Vesicles, Virus Induced"
+          },
+          {
+            "id": "T001083208",
+            "string": "Double-Membrane Vesicle, Virus-Induced"
+          },
+          {
+            "id": "T001083208",
+            "string": "Vesicle, Virus-Induced Double-Membrane"
+          },
+          {
+            "id": "T001083208",
+            "string": "Vesicles, Virus-Induced Double-Membrane"
+          },
+          {
+            "id": "T001083208",
+            "string": "Virus-Induced Double-Membrane Vesicle"
+          }
+        ]
+      },
+      {
+        "conceptName": "Zippered Endoplasmic Reticulum Double-Membrane Spherules",
+        "id": "M000733492",
+        "termList": [
+          {
+            "id": "T001081383",
+            "string": "Zippered Endoplasmic Reticulum Double-Membrane Spherules"
+          },
+          {
+            "id": "T001081383",
+            "string": "Zippered Endoplasmic Reticulum Double Membrane Spherules"
+          }
+        ]
+      },
+      {
+        "conceptName": "Coronavirus Replication-Transcription Complexes",
+        "id": "M000733533",
+        "termList": [
+          {
+            "id": "T001080905",
+            "string": "Coronavirus Replication-Transcription Complexes"
+          },
+          {
+            "id": "T001080905",
+            "string": "Complexe, Coronavirus Replication-Transcription"
+          },
+          {
+            "id": "T001080905",
+            "string": "Complexes, Coronavirus Replication-Transcription"
+          },
+          {
+            "id": "T001080905",
+            "string": "Coronavirus Replication Transcription Complexes"
+          },
+          {
+            "id": "T001080905",
+            "string": "Replication-Transcription Complexes, Coronavirus"
+          }
+        ]
+      },
+      {
+        "conceptName": "Positive Strand RNA Virus Replication-Transcription Complexes",
+        "id": "M000733532",
+        "termList": [
+          {
+            "id": "T001080921",
+            "string": "Positive Strand RNA Virus Replication-Transcription Complexes"
+          },
+          {
+            "id": "T001080921",
+            "string": "Positive Strand RNA Virus Replication Transcription Complexes"
+          }
+        ]
+      },
+      {
+        "conceptName": "Positive-Strand RNA Virus Replication-Transcription Compartments",
+        "id": "M000733174",
+        "scopeNote": "Cytoplasmic, virus-induced membrane structures, derived from host cell organelles, that house the replication and transcription enzyme complexes of POSITIVE-STRAND RNA VIRUSES.\n                ",
+        "termList": [
+          {
+            "id": "T001081427",
+            "string": "Positive-Strand RNA Virus Replication-Transcription Compartments"
+          },
+          {
+            "id": "T001081427",
+            "string": "Positive Strand RNA Virus Replication Transcription Compartments"
+          }
+        ]
+      },
+      {
+        "conceptName": "Virogenic Stroma",
+        "id": "M000734327",
+        "scopeNote": "Subnuclear compartments formed from a reorganization of the nuclear architecture induced by BACULOVIRUSES.\n                ",
+        "termList": [
+          {
+            "id": "T001081430",
+            "string": "Virogenic Stroma"
+          }
+        ]
+      },
+      {
+        "conceptName": "Coronavirus Replication-Transcription Compartments",
+        "id": "M000733166",
+        "scopeNote": "Double-membrane vesicles that are interconnected by their outer membranes and where coronavirus transcription and replication occur. They are derived from and contiguous with the ENDOPLASMIC RETICULUM.\n                ",
+        "termList": [
+          {
+            "id": "T001080906",
+            "string": "Coronavirus Replication-Transcription Compartments"
+          },
+          {
+            "id": "T001080906",
+            "string": "Coronavirus Replication Transcription Compartments"
+          },
+          {
+            "id": "T001080906",
+            "string": "Coronavirus Replication-Transcription Compartment"
+          },
+          {
+            "id": "T001080906",
+            "string": "Replication-Transcription Compartment, Coronavirus"
+          },
+          {
+            "id": "T001080906",
+            "string": "Replication-Transcription Compartments, Coronavirus"
+          },
+          {
+            "id": "T001081431",
+            "string": "Coronavirus Double-Membrane Vesicles"
+          },
+          {
+            "id": "T001081431",
+            "string": "Coronavirus Double Membrane Vesicles"
+          },
+          {
+            "id": "T001081431",
+            "string": "Coronavirus Double-Membrane Vesicle"
+          },
+          {
+            "id": "T001081431",
+            "string": "Double-Membrane Vesicle, Coronavirus"
+          },
+          {
+            "id": "T001081431",
+            "string": "Double-Membrane Vesicles, Coronavirus"
+          },
+          {
+            "id": "T001081431",
+            "string": "Vesicle, Coronavirus Double-Membrane"
+          },
+          {
+            "id": "T001081431",
+            "string": "Vesicles, Coronavirus Double-Membrane"
+          },
+          {
+            "id": "T001080919",
+            "string": "Coronavirus RTC"
+          },
+          {
+            "id": "T001080919",
+            "string": "Coronavirus RTCs"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Viral Replication Compartments",
+    "id": "D000086969"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Blood-Borne Infections",
+        "id": "M000733205",
+        "scopeNote": "Diseases due to or propagated by body fluids from hosts whose BLOOD has been contaminated with pathogens.\n                ",
+        "termList": [
+          {
+            "id": "T001082264",
+            "string": "Blood-Borne Infections"
+          },
+          {
+            "id": "T001082264",
+            "string": "Blood-Borne Infection"
+          },
+          {
+            "id": "T001082264",
+            "string": "Infection, Blood-Borne"
+          },
+          {
+            "id": "T001080969",
+            "string": "Blood Borne Diseases"
+          },
+          {
+            "id": "T001080969",
+            "string": "Blood Borne Disease"
+          },
+          {
+            "id": "T001080969",
+            "string": "Disease, Blood Borne"
+          },
+          {
+            "id": "T001080968",
+            "string": "Blood Borne Infections"
+          },
+          {
+            "id": "T001080968",
+            "string": "Blood Borne Infection"
+          },
+          {
+            "id": "T001080968",
+            "string": "Infection, Blood Borne"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Blood-Borne Infections",
+    "id": "D000086982"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Viral Transcription",
+        "id": "M000733425",
+        "scopeNote": "The biosynthesis of subgenomic viral RNAs, transcribed from the VIRAL GENOME.\n                ",
+        "termList": [
+          {
+            "id": "T001081267",
+            "string": "Viral Transcription"
+          },
+          {
+            "id": "T001081270",
+            "string": "Virus Transcription"
+          },
+          {
+            "id": "T001081270",
+            "string": "Transcription, Virus"
+          },
+          {
+            "id": "T001083283",
+            "string": "Transcription, Viral"
+          }
+        ]
+      },
+      {
+        "conceptName": "Early Gene Transcription, Viral",
+        "id": "M000734385",
+        "termList": [
+          {
+            "id": "T001083284",
+            "string": "Early Gene Transcription, Viral"
+          },
+          {
+            "id": "T001083285",
+            "string": "Early Gene Transcription, Virus"
+          }
+        ]
+      },
+      {
+        "conceptName": "Late Gene Transcription, Viral",
+        "id": "M000734386",
+        "termList": [
+          {
+            "id": "T001083286",
+            "string": "Late Gene Transcription, Viral"
+          },
+          {
+            "id": "T001083287",
+            "string": "Late Gene Transcription, Virus"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Viral Transcription",
+    "id": "D000087002"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Identity Recognition",
+        "id": "M000602087",
+        "scopeNote": "Ability to identify another individual by their facial, vocal, and other bodily features or distinguishing characteristics such as BODY HEIGHT; EYE COLOR; a birth mark or TATTOO; or GAIT.\n                ",
+        "termList": [
+          {
+            "id": "T000874705",
+            "string": "Identity Recognition"
+          },
+          {
+            "id": "T000874705",
+            "string": "Recognition, Identity"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Identity Recognition",
+    "id": "D000087023"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Voice Recognition",
+        "id": "M000733537",
+        "scopeNote": "Ability to identify an individual vocal patterns and expressions.\n                ",
+        "termList": [
+          {
+            "id": "T001081446",
+            "string": "Voice Recognition"
+          },
+          {
+            "id": "T001081446",
+            "string": "Recognition, Voice"
+          }
+        ]
+      },
+      {
+        "conceptName": "Voice Emotion Recognition",
+        "id": "M000678120",
+        "scopeNote": "Ability to interpret the feelings and emotions of another individual based on their vocal expressions.\n                ",
+        "termList": [
+          {
+            "id": "T001003737",
+            "string": "Voice Emotion Recognition"
+          },
+          {
+            "id": "T001003737",
+            "string": "Emotion Recognition, Voice"
+          },
+          {
+            "id": "T001003737",
+            "string": "Voice Emotion Recognitions"
+          }
+        ]
+      },
+      {
+        "conceptName": "Voice Identification",
+        "id": "M000733538",
+        "termList": [
+          {
+            "id": "T001081447",
+            "string": "Voice Identification"
+          },
+          {
+            "id": "T001081447",
+            "string": "Identification, Voice"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Voice Recognition",
+    "id": "D000087024"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Pegivirus",
+        "id": "M000733697",
+        "scopeNote": "A genus of virus in the family FLAVIVIRIDAE. While pegivirus are mostly non-pathogenic, pegivirus coinfections are sometimes associated with NON-HODGKIN LYMPHOMA in human and a viral hepatitis Theiler’s disease in horses.\n                ",
+        "termList": [
+          {
+            "id": "T001081764",
+            "string": "Pegivirus"
+          },
+          {
+            "id": "T001081764",
+            "string": "Pegiviruses"
+          }
+        ]
+      },
+      {
+        "conceptName": "Human Pegivirus",
+        "id": "M000733699",
+        "termList": [
+          {
+            "id": "T001081769",
+            "string": "Human Pegivirus"
+          },
+          {
+            "id": "T001081769",
+            "string": "Human Pegiviruses"
+          },
+          {
+            "id": "T001081769",
+            "string": "Pegivirus, Human"
+          },
+          {
+            "id": "T001081769",
+            "string": "Pegiviruses, Human"
+          }
+        ]
+      },
+      {
+        "conceptName": "Human Hepegiviruses",
+        "id": "M000733700",
+        "termList": [
+          {
+            "id": "T001081770",
+            "string": "Human Hepegiviruses"
+          },
+          {
+            "id": "T001081770",
+            "string": "Hepegivirus, Human"
+          },
+          {
+            "id": "T001081770",
+            "string": "Hepegiviruses, Human"
+          },
+          {
+            "id": "T001081770",
+            "string": "Human Hepegivirus"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Pegivirus",
+    "id": "D000087082"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Mania",
+        "id": "M0002574",
+        "scopeNote": "A state of elevated excitement with over-activity sometimes accompanied with psychotic symptoms (e.g., PSYCHOMOTOR AGITATION, inflated SELF ESTEEM and flight of ideas). It is often associated with mental disorders (e.g., CYCLOTHYMIC DISORDER; and BIPOLAR DISEASES).\n                ",
+        "termList": [
+          {
+            "id": "T004988",
+            "string": "Mania"
+          },
+          {
+            "id": "T004988",
+            "string": "Manias"
+          },
+          {
+            "id": "T004989",
+            "string": "Manic State"
+          }
+        ]
+      },
+      {
+        "conceptName": "Hypomanic Episode",
+        "id": "M000733988",
+        "termList": [
+          {
+            "id": "T001082304",
+            "string": "Hypomanic Episode"
+          },
+          {
+            "id": "T001082304",
+            "string": "Hypomanic Episodes"
+          }
+        ]
+      },
+      {
+        "conceptName": "Hypomania",
+        "id": "M000734045",
+        "termList": [
+          {
+            "id": "T001082274",
+            "string": "Hypomania"
+          },
+          {
+            "id": "T001082274",
+            "string": "Hypomanias"
+          }
+        ]
+      },
+      {
+        "conceptName": "Manic Episode",
+        "id": "M000733987",
+        "termList": [
+          {
+            "id": "T001082303",
+            "string": "Manic Episode"
+          },
+          {
+            "id": "T001082303",
+            "string": "Episode, Manic"
+          },
+          {
+            "id": "T001082303",
+            "string": "Manic Episodes"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Mania",
+    "id": "D000087122"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "COVID-19 Nucleic Acid Testing",
+        "id": "M000733989",
+        "scopeNote": "Diagnosis of COVID-19 by assaying bodily fluids or tissues for the presence of the VIRAL RNA of SARS-COV-2.\n                ",
+        "termList": [
+          {
+            "id": "T001082305",
+            "string": "COVID-19 Nucleic Acid Testing"
+          },
+          {
+            "id": "T001082305",
+            "string": "COVID 19 Nucleic Acid Testing"
+          },
+          {
+            "id": "T001082307",
+            "string": "SARS-CoV-2 Infection Nucleic Acid Testing"
+          },
+          {
+            "id": "T001082307",
+            "string": "SARS CoV 2 Infection Nucleic Acid Testing"
+          },
+          {
+            "id": "T001082311",
+            "string": "SARS Coronavirus 2 Nucleic Acid Testing"
+          },
+          {
+            "id": "T001082306",
+            "string": "COVID19 Nucleic Acid Testing"
+          }
+        ]
+      },
+      {
+        "conceptName": "COVID-19 RT-PCR Testing",
+        "id": "M000733990",
+        "termList": [
+          {
+            "id": "T001082308",
+            "string": "COVID-19 RT-PCR Testing"
+          },
+          {
+            "id": "T001082308",
+            "string": "COVID 19 RT PCR Testing"
+          },
+          {
+            "id": "T001082308",
+            "string": "COVID-19 RT-PCR Testings"
+          },
+          {
+            "id": "T001082308",
+            "string": "RT-PCR Testing, COVID-19"
+          },
+          {
+            "id": "T001082308",
+            "string": "Testing, COVID-19 RT-PCR"
+          },
+          {
+            "id": "T001082310",
+            "string": "SARS Coronavirus 2 RT-PCR Testing"
+          },
+          {
+            "id": "T001082310",
+            "string": "SARS Coronavirus 2 RT PCR Testing"
+          },
+          {
+            "id": "T001082309",
+            "string": "SARS-CoV2 RT-PCR Testing"
+          },
+          {
+            "id": "T001082309",
+            "string": "RT-PCR Testing, SARS-CoV2"
+          },
+          {
+            "id": "T001082309",
+            "string": "SARS CoV2 RT PCR Testing"
+          },
+          {
+            "id": "T001082309",
+            "string": "SARS-CoV2 RT-PCR Testings"
+          },
+          {
+            "id": "T001082309",
+            "string": "Testing, SARS-CoV2 RT-PCR"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "COVID-19 Nucleic Acid Testing",
+    "id": "D000087123"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "COVID-19 Serological Testing",
+        "id": "M000733993",
+        "scopeNote": "Diagnosis of COVID-19 by assaying bodily fluids or tissues for the presence antibodies specific to SARS-COV-2 or its antigens.\n                ",
+        "termList": [
+          {
+            "id": "T001082314",
+            "string": "COVID-19 Serological Testing"
+          },
+          {
+            "id": "T001082314",
+            "string": "COVID 19 Serological Testing"
+          },
+          {
+            "id": "T001082314",
+            "string": "COVID-19 Serological Testings"
+          },
+          {
+            "id": "T001082314",
+            "string": "Serological Testing, COVID-19"
+          },
+          {
+            "id": "T001082314",
+            "string": "Testing, COVID-19 Serological"
+          },
+          {
+            "id": "T001082319",
+            "string": "SARS-CoV-2 Infection Serological Testing"
+          },
+          {
+            "id": "T001082319",
+            "string": "SARS CoV 2 Infection Serological Testing"
+          },
+          {
+            "id": "T001082320",
+            "string": "Serology Testing for COVID-19"
+          },
+          {
+            "id": "T001082320",
+            "string": "Serology Testing for COVID 19"
+          },
+          {
+            "id": "T001082317",
+            "string": "COVID19 Serological Testing"
+          },
+          {
+            "id": "T001082317",
+            "string": "COVID19 Serological Testings"
+          },
+          {
+            "id": "T001082317",
+            "string": "Serological Testing, COVID19"
+          },
+          {
+            "id": "T001082317",
+            "string": "Testing, COVID19 Serological"
+          }
+        ]
+      },
+      {
+        "conceptName": "COVID-19 Serodiagnosis",
+        "id": "M000734190",
+        "termList": [
+          {
+            "id": "T001082633",
+            "string": "COVID-19 Serodiagnosis"
+          },
+          {
+            "id": "T001082633",
+            "string": "COVID 19 Serodiagnosis"
+          },
+          {
+            "id": "T001082633",
+            "string": "COVID-19 Serodiagnoses"
+          },
+          {
+            "id": "T001082633",
+            "string": "Serodiagnosis, COVID-19"
+          },
+          {
+            "id": "T001082634",
+            "string": "COVID19 Serodiagnosis"
+          },
+          {
+            "id": "T001082634",
+            "string": "COVID19 Serodiagnoses"
+          },
+          {
+            "id": "T001082634",
+            "string": "Serodiagnosis, COVID19"
+          }
+        ]
+      },
+      {
+        "conceptName": "COVID-19 Antibody Testing",
+        "id": "M000733991",
+        "termList": [
+          {
+            "id": "T001082312",
+            "string": "COVID-19 Antibody Testing"
+          },
+          {
+            "id": "T001082312",
+            "string": "Antibody Testing, COVID-19"
+          },
+          {
+            "id": "T001082312",
+            "string": "COVID 19 Antibody Testing"
+          },
+          {
+            "id": "T001082312",
+            "string": "COVID-19 Antibody Testings"
+          },
+          {
+            "id": "T001082312",
+            "string": "Testing, COVID-19 Antibody"
+          },
+          {
+            "id": "T001082318",
+            "string": "SARS-CoV-2 Infection Antibody Testing"
+          },
+          {
+            "id": "T001082318",
+            "string": "SARS CoV 2 Infection Antibody Testing"
+          },
+          {
+            "id": "T001082316",
+            "string": "COVID19 Antibody Testing"
+          },
+          {
+            "id": "T001082316",
+            "string": "Antibody Testing, COVID19"
+          },
+          {
+            "id": "T001082316",
+            "string": "COVID19 Antibody Testings"
+          },
+          {
+            "id": "T001082316",
+            "string": "Testing, COVID19 Antibody"
+          }
+        ]
+      },
+      {
+        "conceptName": "SARS-COV-2 Antigen Testing",
+        "id": "M000733992",
+        "termList": [
+          {
+            "id": "T001082321",
+            "string": "SARS-COV-2 Antigen Testing"
+          },
+          {
+            "id": "T001082321",
+            "string": "Antigen Testings, SARS-COV-2"
+          },
+          {
+            "id": "T001082321",
+            "string": "SARS COV 2 Antigen Testing"
+          },
+          {
+            "id": "T001082321",
+            "string": "SARS-COV-2 Antigen Testings"
+          },
+          {
+            "id": "T001082321",
+            "string": "Testing, SARS-COV-2 Antigen"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "COVID-19 Serological Testing",
+    "id": "D000087124"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "N95 Respirators",
+        "id": "M000733505",
+        "scopeNote": "Respiratory protective devices designed to achieve a close seal around the nose and mouth to maintain efficient filtration of aerosolized particles and droplets. They are often fitted for the prevention of the spread of infections (e.g. COVID19) or to administer inhaled anesthetics or other gases.\n                ",
+        "termList": [
+          {
+            "id": "T001083193",
+            "string": "N95 Respirators"
+          },
+          {
+            "id": "T001083193",
+            "string": "N95 Respirator"
+          },
+          {
+            "id": "T001083193",
+            "string": "Respirator, N95"
+          },
+          {
+            "id": "T001083197",
+            "string": "N95 Face Masks"
+          },
+          {
+            "id": "T001083197",
+            "string": "Face Mask, N95"
+          },
+          {
+            "id": "T001083197",
+            "string": "Mask, N95 Face"
+          },
+          {
+            "id": "T001083197",
+            "string": "N95 Face Mask"
+          },
+          {
+            "id": "T001083196",
+            "string": "N95 Masks"
+          },
+          {
+            "id": "T001083196",
+            "string": "Mask, N95"
+          },
+          {
+            "id": "T001083196",
+            "string": "N95 Mask"
+          }
+        ]
+      },
+      {
+        "conceptName": "N95 Filtering Facepiece Respirators",
+        "id": "M000734311",
+        "termList": [
+          {
+            "id": "T001083192",
+            "string": "N95 Filtering Facepiece Respirators"
+          },
+          {
+            "id": "T001083195",
+            "string": "N95 FFRs"
+          },
+          {
+            "id": "T001083195",
+            "string": "N95 FFR"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "N95 Respirators",
+    "id": "D000087162"
+  }
+]
