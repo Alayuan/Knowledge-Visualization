@@ -1,0 +1,877 @@
+ [
+ {
+    "conceptList": [
+      {
+        "conceptName": "COVID-19 Vaccines",
+        "id": "M000732754",
+        "scopeNote": "Vaccines or candidate vaccines containing SARS-CoV-2 component antigens, genetic materials, or inactivated SARS-CoV-2 virus, and designed to prevent COVID-19.\n                ",
+        "termList": [
+          {
+            "id": "T001080092",
+            "string": "COVID-19 Vaccines"
+          },
+          {
+            "id": "T001080092",
+            "string": "COVID 19 Vaccines"
+          },
+          {
+            "id": "T001080092",
+            "string": "Vaccines, COVID-19"
+          },
+          {
+            "id": "T001080390",
+            "string": "COVID-19 Virus Vaccines"
+          },
+          {
+            "id": "T001080390",
+            "string": "COVID 19 Virus Vaccines"
+          },
+          {
+            "id": "T001080390",
+            "string": "Vaccines, COVID-19 Virus"
+          },
+          {
+            "id": "T001080390",
+            "string": "Virus Vaccines, COVID-19"
+          },
+          {
+            "id": "T001080391",
+            "string": "COVID-19 Virus Vaccine"
+          },
+          {
+            "id": "T001080391",
+            "string": "COVID 19 Virus Vaccine"
+          },
+          {
+            "id": "T001080391",
+            "string": "Vaccine, COVID-19 Virus"
+          },
+          {
+            "id": "T001080391",
+            "string": "Virus Vaccine, COVID-19"
+          },
+          {
+            "id": "T001080392",
+            "string": "COVID19 Virus Vaccines"
+          },
+          {
+            "id": "T001080392",
+            "string": "Vaccines, COVID19 Virus"
+          },
+          {
+            "id": "T001080392",
+            "string": "Virus Vaccines, COVID19"
+          },
+          {
+            "id": "T001080393",
+            "string": "COVID19 Virus Vaccine"
+          },
+          {
+            "id": "T001080393",
+            "string": "Vaccine, COVID19 Virus"
+          },
+          {
+            "id": "T001080393",
+            "string": "Virus Vaccine, COVID19"
+          },
+          {
+            "id": "T001080394",
+            "string": "COVID19 Vaccines"
+          },
+          {
+            "id": "T001080394",
+            "string": "Vaccines, COVID19"
+          },
+          {
+            "id": "T001080395",
+            "string": "COVID19 Vaccine"
+          },
+          {
+            "id": "T001080395",
+            "string": "Vaccine, COVID19"
+          },
+          {
+            "id": "T001080396",
+            "string": "SARS-CoV-2 Vaccines"
+          },
+          {
+            "id": "T001080396",
+            "string": "SARS CoV 2 Vaccines"
+          },
+          {
+            "id": "T001080396",
+            "string": "Vaccines, SARS-CoV-2"
+          },
+          {
+            "id": "T001080397",
+            "string": "SARS-CoV-2 Vaccine"
+          },
+          {
+            "id": "T001080397",
+            "string": "SARS CoV 2 Vaccine"
+          },
+          {
+            "id": "T001080397",
+            "string": "Vaccine, SARS-CoV-2"
+          },
+          {
+            "id": "T001080398",
+            "string": "SARS2 Vaccines"
+          },
+          {
+            "id": "T001080398",
+            "string": "Vaccines, SARS2"
+          },
+          {
+            "id": "T001080399",
+            "string": "SARS2 Vaccine"
+          },
+          {
+            "id": "T001080399",
+            "string": "Vaccine, SARS2"
+          },
+          {
+            "id": "T001080400",
+            "string": "Coronavirus Disease 2019 Vaccines"
+          },
+          {
+            "id": "T001080401",
+            "string": "Coronavirus Disease 2019 Vaccine"
+          },
+          {
+            "id": "T001080402",
+            "string": "Coronavirus Disease 2019 Virus Vaccine"
+          },
+          {
+            "id": "T001080403",
+            "string": "Coronavirus Disease 2019 Virus Vaccines"
+          },
+          {
+            "id": "T001080404",
+            "string": "Coronavirus Disease-19 Vaccines"
+          },
+          {
+            "id": "T001080404",
+            "string": "Coronavirus Disease 19 Vaccines"
+          },
+          {
+            "id": "T001080404",
+            "string": "Vaccines, Coronavirus Disease-19"
+          },
+          {
+            "id": "T001080405",
+            "string": "Coronavirus Disease-19 Vaccine"
+          },
+          {
+            "id": "T001080405",
+            "string": "Coronavirus Disease 19 Vaccine"
+          },
+          {
+            "id": "T001080405",
+            "string": "Vaccine, Coronavirus Disease-19"
+          },
+          {
+            "id": "T001080386",
+            "string": "COVID 19 Vaccine"
+          },
+          {
+            "id": "T001080386",
+            "string": "Vaccine, COVID 19"
+          },
+          {
+            "id": "T001080388",
+            "string": "2019-nCoV Vaccine"
+          },
+          {
+            "id": "T001080388",
+            "string": "2019 nCoV Vaccine"
+          },
+          {
+            "id": "T001080388",
+            "string": "Vaccine, 2019-nCoV"
+          },
+          {
+            "id": "T001080384",
+            "string": "2019 Novel Coronavirus Vaccines"
+          },
+          {
+            "id": "T001080385",
+            "string": "2019 Novel Coronavirus Vaccine"
+          },
+          {
+            "id": "T001080387",
+            "string": "2019-nCoV Vaccines"
+          },
+          {
+            "id": "T001080387",
+            "string": "2019 nCoV Vaccines"
+          },
+          {
+            "id": "T001080387",
+            "string": "Vaccines, 2019-nCoV"
+          },
+          {
+            "id": "T001080389",
+            "string": "COVID-19 Vaccine"
+          },
+          {
+            "id": "T001080389",
+            "string": "Vaccine, COVID-19"
+          },
+          {
+            "id": "T001082302",
+            "string": "SARS Coronavirus 2 Vaccines"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "COVID-19 Vaccines",
+    "id": "D000086663"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Coronavirus RNA-Dependent RNA Polymerase",
+        "id": "M000732446",
+        "scopeNote": "RNA-Dependent RNA Polymerases found in species of CORONAVIRIDAE.\n                ",
+        "termList": [
+          {
+            "id": "T001080858",
+            "string": "Coronavirus RNA-Dependent RNA Polymerase"
+          },
+          {
+            "id": "T001080858",
+            "string": "Coronavirus RNA Dependent RNA Polymerase"
+          },
+          {
+            "id": "T001080855",
+            "string": "RNA-Dependent RNA Polymerase, Coronavirus"
+          },
+          {
+            "id": "T001080855",
+            "string": "RNA Dependent RNA Polymerase, Coronavirus"
+          },
+          {
+            "id": "T001080854",
+            "string": "CoV RdRp Protein"
+          },
+          {
+            "id": "T001079613",
+            "string": "RNA-Dependent RNA Polymerases, Coronavirus"
+          },
+          {
+            "id": "T001079613",
+            "string": "RNA Dependent RNA Polymerases, Coronavirus"
+          },
+          {
+            "id": "T001080856",
+            "string": "Coronavirus RNA Polymerase"
+          },
+          {
+            "id": "T001080856",
+            "string": "RNA Polymerase, Coronavirus"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Coronavirus RNA-Dependent RNA Polymerase",
+    "id": "D000086422"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Coronavirus Nucleocapsid Proteins",
+        "id": "M000732493",
+        "scopeNote": "Nucleocapsid proteins from species of the CORONAVIRIDAE virus family.\n                ",
+        "termList": [
+          {
+            "id": "T001079725",
+            "string": "Coronavirus Nucleocapsid Proteins"
+          },
+          {
+            "id": "T001079725",
+            "string": "Nucleocapsid Proteins, Coronavirus"
+          },
+          {
+            "id": "T001081113",
+            "string": "N Protein, Coronavirus"
+          },
+          {
+            "id": "T001081113",
+            "string": "Coronavirus N Protein"
+          },
+          {
+            "id": "T001081112",
+            "string": "Nucleocapsid Protein, Coronavirus"
+          },
+          {
+            "id": "T001081112",
+            "string": "Coronavirus Nucleocapsid Protein"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Coronavirus Nucleocapsid Proteins",
+    "id": "D000086462"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Viral Genome Packaging",
+        "id": "M000732545",
+        "scopeNote": "Folding of the viral genomic nucleic acid into the VIRUS PARTICLE.\n                ",
+        "termList": [
+          {
+            "id": "T001079779",
+            "string": "Viral Genome Packaging"
+          },
+          {
+            "id": "T001079779",
+            "string": "Genome Packaging, Viral"
+          },
+          {
+            "id": "T056954",
+            "string": "Viral Packaging"
+          },
+          {
+            "id": "T056953",
+            "string": "Packaging, Viral"
+          },
+          {
+            "id": "T001081367",
+            "string": "Virus Genome Packaging"
+          },
+          {
+            "id": "T001081367",
+            "string": "Genome Packaging, Virus"
+          },
+          {
+            "id": "T001081367",
+            "string": "Genome Packagings, Virus"
+          },
+          {
+            "id": "T001081367",
+            "string": "Packaging, Virus Genome"
+          },
+          {
+            "id": "T001081367",
+            "string": "Packagings, Virus Genome"
+          },
+          {
+            "id": "T001081367",
+            "string": "Virus Genome Packagings"
+          },
+          {
+            "id": "T056951",
+            "string": "Packaging, Virus"
+          },
+          {
+            "id": "T056951",
+            "string": "Packagings, Virus"
+          },
+          {
+            "id": "T056951",
+            "string": "Virus Packaging"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Viral Genome Packaging",
+    "id": "D000086482"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Viral Packaging Sequence",
+        "id": "M000732546",
+        "scopeNote": "Specific sequences in the viral nucleic acid that are involved in packaging the viral genome (VIRAL GENOME PACKAGING) into the VIRUS PARTICLES.\n                ",
+        "termList": [
+          {
+            "id": "T001079784",
+            "string": "Viral Packaging Sequence"
+          },
+          {
+            "id": "T001079784",
+            "string": "Packaging Sequence, Viral"
+          },
+          {
+            "id": "T001079784",
+            "string": "Packaging Sequences, Viral"
+          },
+          {
+            "id": "T001079784",
+            "string": "Sequence, Viral Packaging"
+          },
+          {
+            "id": "T001079784",
+            "string": "Sequences, Viral Packaging"
+          },
+          {
+            "id": "T001079784",
+            "string": "Viral Packaging Sequences"
+          },
+          {
+            "id": "T001079787",
+            "string": "Virus Packaging Signal Sequence"
+          },
+          {
+            "id": "T001079785",
+            "string": "Viral Packaging Signal Sequence"
+          },
+          {
+            "id": "T001079786",
+            "string": "Virus Packaging Sequence"
+          },
+          {
+            "id": "T001079786",
+            "string": "Packaging Sequence, Virus"
+          },
+          {
+            "id": "T001079786",
+            "string": "Packaging Sequences, Virus"
+          },
+          {
+            "id": "T001079786",
+            "string": "Sequence, Virus Packaging"
+          },
+          {
+            "id": "T001079786",
+            "string": "Sequences, Virus Packaging"
+          },
+          {
+            "id": "T001079786",
+            "string": "Virus Packaging Sequences"
+          }
+        ]
+      },
+      {
+        "conceptName": "Psi-RNA Packaging Signal",
+        "id": "M000733489",
+        "termList": [
+          {
+            "id": "T001081371",
+            "string": "Psi-RNA Packaging Signal"
+          },
+          {
+            "id": "T001081371",
+            "string": "Packaging Signal, Psi-RNA"
+          },
+          {
+            "id": "T001081371",
+            "string": "Packaging Signals, Psi-RNA"
+          },
+          {
+            "id": "T001081371",
+            "string": "Psi RNA Packaging Signal"
+          },
+          {
+            "id": "T001081371",
+            "string": "Psi-RNA Packaging Signals"
+          },
+          {
+            "id": "T001081371",
+            "string": "Signal, Psi-RNA Packaging"
+          },
+          {
+            "id": "T001081371",
+            "string": "Signals, Psi-RNA Packaging"
+          }
+        ]
+      },
+      {
+        "conceptName": "Viral Packaging RNA Sequence",
+        "id": "M000733488",
+        "termList": [
+          {
+            "id": "T001081368",
+            "string": "Viral Packaging RNA Sequence"
+          },
+          {
+            "id": "T001081370",
+            "string": "Viral RNA Packaging Signal Sequence"
+          },
+          {
+            "id": "T001081369",
+            "string": "Viral RNA Packaging Signal"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Viral Packaging Sequence",
+    "id": "D000086502"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Financial Stress",
+        "id": "M000732585",
+        "scopeNote": "In medicine, a term used to describe problems a patient has related to the cost of medical care. Not having health insurance or having a lot of costs for medical care not covered by health insurance can cause financial problems and may lead to debt and bankruptcy. Financial stress can also affect a patient’s quality of life and access to medical care. For example, a patient may not take a prescription medicine or may avoid going to the doctor to save money. Cancer patients are more likely to have financial stress than people without cancer. Also called economic burden, economic hardship, financial burden, financial distress, financial hardship, and financial toxicity. (https://www.cancer.gov/publications/dictionaries/cancer-terms/def/financial-stress)\n                ",
+        "termList": [
+          {
+            "id": "T001079844",
+            "string": "Financial Stress"
+          },
+          {
+            "id": "T001079844",
+            "string": "Financial Stresses"
+          },
+          {
+            "id": "T001079844",
+            "string": "Stress, Financial"
+          },
+          {
+            "id": "T001079844",
+            "string": "Stresses, Financial"
+          },
+          {
+            "id": "T001081413",
+            "string": "Financial Pressures"
+          },
+          {
+            "id": "T001081413",
+            "string": "Financial Pressure"
+          },
+          {
+            "id": "T001081413",
+            "string": "Pressure, Financial"
+          },
+          {
+            "id": "T001081413",
+            "string": "Pressures, Financial"
+          },
+          {
+            "id": "T001081411",
+            "string": "Financial Hardship"
+          },
+          {
+            "id": "T001081411",
+            "string": "Financial Hardships"
+          },
+          {
+            "id": "T001081411",
+            "string": "Hardship, Financial"
+          },
+          {
+            "id": "T001081411",
+            "string": "Hardships, Financial"
+          },
+          {
+            "id": "T001081412",
+            "string": "Financial Challenges"
+          },
+          {
+            "id": "T001081412",
+            "string": "Challenge, Financial"
+          },
+          {
+            "id": "T001081412",
+            "string": "Challenges, Financial"
+          },
+          {
+            "id": "T001081412",
+            "string": "Financial Challenge"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Financial Stress",
+    "id": "D000086522"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Carnivorous Plant",
+        "id": "M000732586",
+        "scopeNote": "Plants adapted to trap and kill insects and other non-plant organisms, deriving nutrients from trapped organisms.\n                ",
+        "termList": [
+          {
+            "id": "T001079845",
+            "string": "Carnivorous Plant"
+          },
+          {
+            "id": "T001079845",
+            "string": "Carnivorous Plants"
+          },
+          {
+            "id": "T001079845",
+            "string": "Plant, Carnivorous"
+          }
+        ]
+      },
+      {
+        "conceptName": "Insectivorous Plants",
+        "id": "M000732588",
+        "termList": [
+          {
+            "id": "T001079849",
+            "string": "Insectivorous Plants"
+          },
+          {
+            "id": "T001079849",
+            "string": "Insectivorous Plant"
+          },
+          {
+            "id": "T001079849",
+            "string": "Plant, Insectivorous"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Carnivorous Plant",
+    "id": "D000086523"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Calliphoridae",
+        "id": "M000732589",
+        "scopeNote": "A family of the superfamily Oestroidea in the order Diptera. Several species are major livestock pests causing MYIASIS by parasitic maggots.\n                ",
+        "termList": [
+          {
+            "id": "T001079851",
+            "string": "Calliphoridae"
+          },
+          {
+            "id": "T001079852",
+            "string": "Blowflies"
+          },
+          {
+            "id": "T001079852",
+            "string": "Blowfly"
+          },
+          {
+            "id": "T001079853",
+            "string": "Blow-Flies"
+          },
+          {
+            "id": "T001079853",
+            "string": "Blow Flies"
+          },
+          {
+            "id": "T001079853",
+            "string": "Blow-Fly"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Calliphoridae",
+    "id": "D000086542"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "American Natives",
+        "id": "M000732705",
+        "scopeNote": "Members of indigenous populations within the United States.with pre-colonial contact origins. .\n                ",
+        "termList": [
+          {
+            "id": "T001080666",
+            "string": "American Natives"
+          },
+          {
+            "id": "T001080666",
+            "string": "American Native"
+          },
+          {
+            "id": "T001080666",
+            "string": "Native, American"
+          },
+          {
+            "id": "T001080666",
+            "string": "Natives, American"
+          },
+          {
+            "id": "T001080028",
+            "string": "Indians, American"
+          },
+          {
+            "id": "T001080028",
+            "string": "American Indian"
+          },
+          {
+            "id": "T001080025",
+            "string": "American Indians"
+          },
+          {
+            "id": "T001080026",
+            "string": "Native Americans"
+          },
+          {
+            "id": "T001080026",
+            "string": "American, Native"
+          },
+          {
+            "id": "T001080026",
+            "string": "Native American"
+          }
+        ]
+      },
+      {
+        "conceptName": "Native Americans, Federally-recognized",
+        "id": "M000733046",
+        "termList": [
+          {
+            "id": "T001080657",
+            "string": "Native Americans, Federally-recognized"
+          },
+          {
+            "id": "T001080657",
+            "string": "American, Federally-recognized Native"
+          },
+          {
+            "id": "T001080657",
+            "string": "Federally-recognized Native American"
+          },
+          {
+            "id": "T001080657",
+            "string": "Federally-recognized Native Americans"
+          },
+          {
+            "id": "T001080657",
+            "string": "Native American, Federally-recognized"
+          },
+          {
+            "id": "T001080657",
+            "string": "Native Americans, Federally recognized"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "American Natives",
+    "id": "D000086562"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Anosmia",
+        "id": "M0001280",
+        "scopeNote": "Complete or severe loss of the subjective sense of smell. Loss of smell may be caused by many factors such as a cold, allergy, OLFACTORY NERVE DISEASES, viral RESPIRATORY TRACT INFECTIONS (e.g., COVID-19), aging and various neurological disorders (e.g., ALZHEIMER DISEASE).\n                ",
+        "termList": [
+          {
+            "id": "T002503",
+            "string": "Anosmia"
+          },
+          {
+            "id": "T001079186",
+            "string": "Loss of Smell"
+          },
+          {
+            "id": "T001079186",
+            "string": "Smell Loss"
+          }
+        ]
+      },
+      {
+        "conceptName": "Hyposmia",
+        "id": "M000732706",
+        "termList": [
+          {
+            "id": "T001080029",
+            "string": "Hyposmia"
+          },
+          {
+            "id": "T001080029",
+            "string": "Hyposmias"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Anosmia",
+    "id": "D000086582"
+  },
+  {
+    "conceptList": [
+      {
+        "conceptName": "Pangolins",
+        "id": "M000732732",
+        "scopeNote": "Solitary, chiefly burrowing and nocturnal mammals of the order Pholidota. They have bodies, tails and heads encased in sharp scales, which protect them when rolled up into a ball when threatened. Also called scaly anteaters, pangolins are myrmecophagous mainly eating ants and termites and are distributed in the warmer parts of the Asia and the Africa continents. Chinese pangolins are a potential intermediate DISEASE RESERVOIR of COVID-19 virus, SARS-CoV-2.\n                ",
+        "termList": [
+          {
+            "id": "T001080062",
+            "string": "Pangolins"
+          },
+          {
+            "id": "T001080062",
+            "string": "Pangolin"
+          },
+          {
+            "id": "T001080065",
+            "string": "Pholidota"
+          }
+        ]
+      },
+      {
+        "conceptName": "Manis",
+        "id": "M000733969",
+        "termList": [
+          {
+            "id": "T001080069",
+            "string": "Manis"
+          },
+          {
+            "id": "T001080067",
+            "string": "Scaly Anteaters"
+          },
+          {
+            "id": "T001080067",
+            "string": "Scaly Anteater"
+          }
+        ]
+      },
+      {
+        "conceptName": "Manis pentadactyla",
+        "id": "M000733973",
+        "termList": [
+          {
+            "id": "T001082259",
+            "string": "Manis pentadactyla"
+          },
+          {
+            "id": "T001082261",
+            "string": "Chinese Pangolin"
+          },
+          {
+            "id": "T001082261",
+            "string": "Chinese Pangolins"
+          },
+          {
+            "id": "T001082261",
+            "string": "Pangolin, Chinese"
+          }
+        ]
+      },
+      {
+        "conceptName": "Phataginus",
+        "id": "M000733971",
+        "termList": [
+          {
+            "id": "T001082256",
+            "string": "Phataginus"
+          }
+        ]
+      },
+      {
+        "conceptName": "Smutsia",
+        "id": "M000733972",
+        "termList": [
+          {
+            "id": "T001082257",
+            "string": "Smutsia"
+          }
+        ]
+      },
+      {
+        "conceptName": "Manidae",
+        "id": "M000732734",
+        "termList": [
+          {
+            "id": "T001080064",
+            "string": "Manidae"
+          }
+        ]
+      }
+    ],
+    "descriptorName": "Pangolins",
+    "id": "D000086642"
+  }
+]

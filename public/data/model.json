@@ -1,0 +1,2626 @@
+{
+  "data": [
+    {
+      "descriptorName": "SARS-CoV-2",
+      "conceptList": [
+        {
+          "conceptName": "SARS-CoV-2",
+          "termList": [
+            {
+              "string": "SARS-CoV-2"
+            },
+            {
+              "string": "Coronavirus Disease 2019 Virus"
+            },
+            {
+              "string": "2019 Novel Coronavirus"
+            },
+            {
+              "string": "2019 Novel Coronaviruses"
+            },
+            {
+              "string": "Coronavirus, 2019 Novel"
+            },
+            {
+              "string": "Novel Coronavirus, 2019"
+            },
+            {
+              "string": "Wuhan Seafood Market Pneumonia Virus"
+            },
+            {
+              "string": "SARS-CoV-2 Virus"
+            },
+            {
+              "string": "SARS CoV 2 Virus"
+            },
+            {
+              "string": "SARS-CoV-2 Viruses"
+            },
+            {
+              "string": "Virus, SARS-CoV-2"
+            },
+            {
+              "string": "2019-nCoV"
+            },
+            {
+              "string": "COVID-19 Virus"
+            },
+            {
+              "string": "COVID 19 Virus"
+            },
+            {
+              "string": "COVID-19 Viruses"
+            },
+            {
+              "string": "Virus, COVID-19"
+            },
+            {
+              "string": "Wuhan Coronavirus"
+            },
+            {
+              "string": "Coronavirus, Wuhan"
+            },
+            {
+              "string": "SARS Coronavirus 2"
+            },
+            {
+              "string": "Coronavirus 2, SARS"
+            },
+            {
+              "string": "Severe Acute Respiratory Syndrome Coronavirus 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Coronavirus RNA-Dependent RNA Polymerase",
+          "termList": [
+            {
+              "string": "Coronavirus RNA-Dependent RNA Polymerase"
+            },
+            {
+              "string": "Coronavirus RNA Dependent RNA Polymerase"
+            },
+            {
+              "string": "RNA-Dependent RNA Polymerase, Coronavirus"
+            },
+            {
+              "string": "RNA Dependent RNA Polymerase, Coronavirus"
+            },
+            {
+              "string": "CoV RdRp Protein"
+            },
+            {
+              "string": "RNA-Dependent RNA Polymerases, Coronavirus"
+            },
+            {
+              "string": "RNA Dependent RNA Polymerases, Coronavirus"
+            },
+            {
+              "string": "Coronavirus RNA Polymerase"
+            },
+            {
+              "string": "RNA Polymerase, Coronavirus"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Coronavirus RNA-Dependent RNA Polymerase"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Coronavirus Nucleocapsid Proteins",
+          "termList": [
+            {
+              "string": "Coronavirus Nucleocapsid Proteins"
+            },
+            {
+              "string": "Nucleocapsid Proteins, Coronavirus"
+            },
+            {
+              "string": "N Protein, Coronavirus"
+            },
+            {
+              "string": "Coronavirus N Protein"
+            },
+            {
+              "string": "Nucleocapsid Protein, Coronavirus"
+            },
+            {
+              "string": "Coronavirus Nucleocapsid Protein"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Coronavirus Nucleocapsid Proteins"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Viral Genome Packaging",
+          "termList": [
+            {
+              "string": "Viral Genome Packaging"
+            },
+            {
+              "string": "Genome Packaging, Viral"
+            },
+            {
+              "string": "Viral Packaging"
+            },
+            {
+              "string": "Packaging, Viral"
+            },
+            {
+              "string": "Virus Genome Packaging"
+            },
+            {
+              "string": "Genome Packaging, Virus"
+            },
+            {
+              "string": "Genome Packagings, Virus"
+            },
+            {
+              "string": "Packaging, Virus Genome"
+            },
+            {
+              "string": "Packagings, Virus Genome"
+            },
+            {
+              "string": "Virus Genome Packagings"
+            },
+            {
+              "string": "Packaging, Virus"
+            },
+            {
+              "string": "Packagings, Virus"
+            },
+            {
+              "string": "Virus Packaging"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Viral Genome Packaging"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Viral Packaging Sequence",
+          "termList": [
+            {
+              "string": "Viral Packaging Sequence"
+            },
+            {
+              "string": "Packaging Sequence, Viral"
+            },
+            {
+              "string": "Packaging Sequences, Viral"
+            },
+            {
+              "string": "Sequence, Viral Packaging"
+            },
+            {
+              "string": "Sequences, Viral Packaging"
+            },
+            {
+              "string": "Viral Packaging Sequences"
+            },
+            {
+              "string": "Virus Packaging Signal Sequence"
+            },
+            {
+              "string": "Viral Packaging Signal Sequence"
+            },
+            {
+              "string": "Virus Packaging Sequence"
+            },
+            {
+              "string": "Packaging Sequence, Virus"
+            },
+            {
+              "string": "Packaging Sequences, Virus"
+            },
+            {
+              "string": "Sequence, Virus Packaging"
+            },
+            {
+              "string": "Sequences, Virus Packaging"
+            },
+            {
+              "string": "Virus Packaging Sequences"
+            }
+          ]
+        },
+        {
+          "conceptName": "Psi-RNA Packaging Signal",
+          "termList": [
+            {
+              "string": "Psi-RNA Packaging Signal"
+            },
+            {
+              "string": "Packaging Signal, Psi-RNA"
+            },
+            {
+              "string": "Packaging Signals, Psi-RNA"
+            },
+            {
+              "string": "Psi RNA Packaging Signal"
+            },
+            {
+              "string": "Psi-RNA Packaging Signals"
+            },
+            {
+              "string": "Signal, Psi-RNA Packaging"
+            },
+            {
+              "string": "Signals, Psi-RNA Packaging"
+            }
+          ]
+        },
+        {
+          "conceptName": "Viral Packaging RNA Sequence",
+          "termList": [
+            {
+              "string": "Viral Packaging RNA Sequence"
+            },
+            {
+              "string": "Viral RNA Packaging Signal Sequence"
+            },
+            {
+              "string": "Viral RNA Packaging Signal"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Viral Packaging Sequence"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Financial Stress",
+          "termList": [
+            {
+              "string": "Financial Stress"
+            },
+            {
+              "string": "Financial Stresses"
+            },
+            {
+              "string": "Stress, Financial"
+            },
+            {
+              "string": "Stresses, Financial"
+            },
+            {
+              "string": "Financial Pressures"
+            },
+            {
+              "string": "Financial Pressure"
+            },
+            {
+              "string": "Pressure, Financial"
+            },
+            {
+              "string": "Pressures, Financial"
+            },
+            {
+              "string": "Financial Hardship"
+            },
+            {
+              "string": "Financial Hardships"
+            },
+            {
+              "string": "Hardship, Financial"
+            },
+            {
+              "string": "Hardships, Financial"
+            },
+            {
+              "string": "Financial Challenges"
+            },
+            {
+              "string": "Challenge, Financial"
+            },
+            {
+              "string": "Challenges, Financial"
+            },
+            {
+              "string": "Financial Challenge"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Financial Stress"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Carnivorous Plant",
+          "termList": [
+            {
+              "string": "Carnivorous Plant"
+            },
+            {
+              "string": "Carnivorous Plants"
+            },
+            {
+              "string": "Plant, Carnivorous"
+            }
+          ]
+        },
+        {
+          "conceptName": "Insectivorous Plants",
+          "termList": [
+            {
+              "string": "Insectivorous Plants"
+            },
+            {
+              "string": "Insectivorous Plant"
+            },
+            {
+              "string": "Plant, Insectivorous"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Carnivorous Plant"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Calliphoridae",
+          "termList": [
+            {
+              "string": "Calliphoridae"
+            },
+            {
+              "string": "Blowflies"
+            },
+            {
+              "string": "Blowfly"
+            },
+            {
+              "string": "Blow-Flies"
+            },
+            {
+              "string": "Blow Flies"
+            },
+            {
+              "string": "Blow-Fly"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Calliphoridae"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "American Natives",
+          "termList": [
+            {
+              "string": "American Natives"
+            },
+            {
+              "string": "American Native"
+            },
+            {
+              "string": "Native, American"
+            },
+            {
+              "string": "Natives, American"
+            },
+            {
+              "string": "Indians, American"
+            },
+            {
+              "string": "American Indian"
+            },
+            {
+              "string": "American Indians"
+            },
+            {
+              "string": "Native Americans"
+            },
+            {
+              "string": "American, Native"
+            },
+            {
+              "string": "Native American"
+            }
+          ]
+        },
+        {
+          "conceptName": "Native Americans, Federally-recognized",
+          "termList": [
+            {
+              "string": "Native Americans, Federally-recognized"
+            },
+            {
+              "string": "American, Federally-recognized Native"
+            },
+            {
+              "string": "Federally-recognized Native American"
+            },
+            {
+              "string": "Federally-recognized Native Americans"
+            },
+            {
+              "string": "Native American, Federally-recognized"
+            },
+            {
+              "string": "Native Americans, Federally recognized"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "American Natives"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Anosmia",
+          "termList": [
+            {
+              "string": "Anosmia"
+            },
+            {
+              "string": "Loss of Smell"
+            },
+            {
+              "string": "Smell Loss"
+            }
+          ]
+        },
+        {
+          "conceptName": "Hyposmia",
+          "termList": [
+            {
+              "string": "Hyposmia"
+            },
+            {
+              "string": "Hyposmias"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Anosmia"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Pangolins",
+          "termList": [
+            {
+              "string": "Pangolins"
+            },
+            {
+              "string": "Pangolin"
+            },
+            {
+              "string": "Pholidota"
+            }
+          ]
+        },
+        {
+          "conceptName": "Manis",
+          "termList": [
+            {
+              "string": "Manis"
+            },
+            {
+              "string": "Scaly Anteaters"
+            },
+            {
+              "string": "Scaly Anteater"
+            }
+          ]
+        },
+        {
+          "conceptName": "Manis pentadactyla",
+          "termList": [
+            {
+              "string": "Manis pentadactyla"
+            },
+            {
+              "string": "Chinese Pangolin"
+            },
+            {
+              "string": "Chinese Pangolins"
+            },
+            {
+              "string": "Pangolin, Chinese"
+            }
+          ]
+        },
+        {
+          "conceptName": "Phataginus",
+          "termList": [
+            {
+              "string": "Phataginus"
+            }
+          ]
+        },
+        {
+          "conceptName": "Smutsia",
+          "termList": [
+            {
+              "string": "Smutsia"
+            }
+          ]
+        },
+        {
+          "conceptName": "Manidae",
+          "termList": [
+            {
+              "string": "Manidae"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Pangolins"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "COVID-19 Vaccines",
+          "termList": [
+            {
+              "string": "COVID-19 Vaccines"
+            },
+            {
+              "string": "COVID 19 Vaccines"
+            },
+            {
+              "string": "Vaccines, COVID-19"
+            },
+            {
+              "string": "COVID-19 Virus Vaccines"
+            },
+            {
+              "string": "COVID 19 Virus Vaccines"
+            },
+            {
+              "string": "Vaccines, COVID-19 Virus"
+            },
+            {
+              "string": "Virus Vaccines, COVID-19"
+            },
+            {
+              "string": "COVID-19 Virus Vaccine"
+            },
+            {
+              "string": "COVID 19 Virus Vaccine"
+            },
+            {
+              "string": "Vaccine, COVID-19 Virus"
+            },
+            {
+              "string": "Virus Vaccine, COVID-19"
+            },
+            {
+              "string": "COVID19 Virus Vaccines"
+            },
+            {
+              "string": "Vaccines, COVID19 Virus"
+            },
+            {
+              "string": "Virus Vaccines, COVID19"
+            },
+            {
+              "string": "COVID19 Virus Vaccine"
+            },
+            {
+              "string": "Vaccine, COVID19 Virus"
+            },
+            {
+              "string": "Virus Vaccine, COVID19"
+            },
+            {
+              "string": "COVID19 Vaccines"
+            },
+            {
+              "string": "Vaccines, COVID19"
+            },
+            {
+              "string": "COVID19 Vaccine"
+            },
+            {
+              "string": "Vaccine, COVID19"
+            },
+            {
+              "string": "SARS-CoV-2 Vaccines"
+            },
+            {
+              "string": "SARS CoV 2 Vaccines"
+            },
+            {
+              "string": "Vaccines, SARS-CoV-2"
+            },
+            {
+              "string": "SARS-CoV-2 Vaccine"
+            },
+            {
+              "string": "SARS CoV 2 Vaccine"
+            },
+            {
+              "string": "Vaccine, SARS-CoV-2"
+            },
+            {
+              "string": "SARS2 Vaccines"
+            },
+            {
+              "string": "Vaccines, SARS2"
+            },
+            {
+              "string": "SARS2 Vaccine"
+            },
+            {
+              "string": "Vaccine, SARS2"
+            },
+            {
+              "string": "Coronavirus Disease 2019 Vaccines"
+            },
+            {
+              "string": "Coronavirus Disease 2019 Vaccine"
+            },
+            {
+              "string": "Coronavirus Disease 2019 Virus Vaccine"
+            },
+            {
+              "string": "Coronavirus Disease 2019 Virus Vaccines"
+            },
+            {
+              "string": "Coronavirus Disease-19 Vaccines"
+            },
+            {
+              "string": "Coronavirus Disease 19 Vaccines"
+            },
+            {
+              "string": "Vaccines, Coronavirus Disease-19"
+            },
+            {
+              "string": "Coronavirus Disease-19 Vaccine"
+            },
+            {
+              "string": "Coronavirus Disease 19 Vaccine"
+            },
+            {
+              "string": "Vaccine, Coronavirus Disease-19"
+            },
+            {
+              "string": "COVID 19 Vaccine"
+            },
+            {
+              "string": "Vaccine, COVID 19"
+            },
+            {
+              "string": "2019-nCoV Vaccine"
+            },
+            {
+              "string": "2019 nCoV Vaccine"
+            },
+            {
+              "string": "Vaccine, 2019-nCoV"
+            },
+            {
+              "string": "2019 Novel Coronavirus Vaccines"
+            },
+            {
+              "string": "2019 Novel Coronavirus Vaccine"
+            },
+            {
+              "string": "2019-nCoV Vaccines"
+            },
+            {
+              "string": "2019 nCoV Vaccines"
+            },
+            {
+              "string": "Vaccines, 2019-nCoV"
+            },
+            {
+              "string": "COVID-19 Vaccine"
+            },
+            {
+              "string": "Vaccine, COVID-19"
+            },
+            {
+              "string": "SARS Coronavirus 2 Vaccines"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Indigenous Canadians",
+          "termList": [
+            {
+              "string": "Indigenous Canadians"
+            },
+            {
+              "string": "Canadians, Indigenous"
+            },
+            {
+              "string": "Indigenous Canadian"
+            },
+            {
+              "string": "Canadian Natives"
+            },
+            {
+              "string": "Canadian Native"
+            },
+            {
+              "string": "Native, Canadian"
+            },
+            {
+              "string": "Natives, Canadian"
+            },
+            {
+              "string": "Native Canadians"
+            },
+            {
+              "string": "Canadian, Native"
+            },
+            {
+              "string": "Canadians, Native"
+            },
+            {
+              "string": "Native Canadian"
+            }
+          ]
+        },
+        {
+          "conceptName": "Metis Canadians",
+          "termList": [
+            {
+              "string": "Metis Canadians"
+            },
+            {
+              "string": "Canadian, Metis"
+            },
+            {
+              "string": "Canadians, Metis"
+            },
+            {
+              "string": "Metis Canadian"
+            }
+          ]
+        },
+        {
+          "conceptName": "First Nation Canadians",
+          "termList": [
+            {
+              "string": "First Nation Canadians"
+            },
+            {
+              "string": "Canadian, First Nation"
+            },
+            {
+              "string": "Canadians, First Nation"
+            },
+            {
+              "string": "First Nation Canadian"
+            },
+            {
+              "string": "Nation Canadian, First"
+            },
+            {
+              "string": "Nation Canadians, First"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Indigenous Canadians"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Practice Patterns, Pharmacists'",
+          "termList": [
+            {
+              "string": "Practice Patterns, Pharmacists'"
+            },
+            {
+              "string": "Pattern, Pharmacists' Practice"
+            },
+            {
+              "string": "Patterns, Pharmacists' Practice"
+            },
+            {
+              "string": "Pharmacists' Practice Pattern"
+            },
+            {
+              "string": "Pharmacists' Practice Patterns"
+            },
+            {
+              "string": "Practice Pattern, Pharmacists'"
+            },
+            {
+              "string": "Practice Patterns, Pharmacists"
+            },
+            {
+              "string": "Pharmacist's Practice Patterns"
+            },
+            {
+              "string": "Pattern, Pharmacist's Practice"
+            },
+            {
+              "string": "Patterns, Pharmacist's Practice"
+            },
+            {
+              "string": "Pharmacist's Practice Pattern"
+            },
+            {
+              "string": "Pharmacists Practice Patterns"
+            },
+            {
+              "string": "Practice Pattern, Pharmacist's"
+            },
+            {
+              "string": "Practice Patterns, Pharmacist's"
+            },
+            {
+              "string": "Practice Pattern, Pharmacist"
+            },
+            {
+              "string": "Pattern, Pharmacist Practice"
+            },
+            {
+              "string": "Patterns, Pharmacist Practice"
+            },
+            {
+              "string": "Pharmacist Practice Pattern"
+            },
+            {
+              "string": "Pharmacist Practice Patterns"
+            },
+            {
+              "string": "Practice Patterns, Pharmacist"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Practice Patterns, Pharmacists'"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Rhinorrhea",
+          "termList": [
+            {
+              "string": "Rhinorrhea"
+            },
+            {
+              "string": "Runny Nose"
+            },
+            {
+              "string": "Nose, Runny"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Rhinorrhea"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Clinical Reasoning",
+          "termList": [
+            {
+              "string": "Clinical Reasoning"
+            },
+            {
+              "string": "Reasoning, Clinical"
+            },
+            {
+              "string": "Clinical Judgement"
+            },
+            {
+              "string": "Clinical Judgements"
+            },
+            {
+              "string": "Judgement, Clinical"
+            },
+            {
+              "string": "Judgements, Clinical"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Clinical Reasoning"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "COVID-19 Testing",
+          "termList": [
+            {
+              "string": "COVID-19 Testing"
+            },
+            {
+              "string": "COVID 19 Testing"
+            },
+            {
+              "string": "COVID-19 Testings"
+            },
+            {
+              "string": "Testing, COVID-19"
+            },
+            {
+              "string": "SARS Coronavirus 2 Testing"
+            },
+            {
+              "string": "COVID-19 Virus Testing"
+            },
+            {
+              "string": "COVID 19 Virus Testing"
+            },
+            {
+              "string": "COVID-19 Virus Testings"
+            },
+            {
+              "string": "Testing, COVID-19 Virus"
+            },
+            {
+              "string": "Virus Testing, COVID-19"
+            },
+            {
+              "string": "COVID19 Testing"
+            },
+            {
+              "string": "COVID19 Testings"
+            },
+            {
+              "string": "Testing, COVID19"
+            },
+            {
+              "string": "COVID19 Virus Testing"
+            },
+            {
+              "string": "COVID19 Virus Testings"
+            },
+            {
+              "string": "Testing, COVID19 Virus"
+            },
+            {
+              "string": "Virus Testing, COVID19"
+            },
+            {
+              "string": "SARS-CoV-2 Testing"
+            },
+            {
+              "string": "SARS CoV 2 Testing"
+            },
+            {
+              "string": "SARS-CoV-2 Testings"
+            },
+            {
+              "string": "Testing, SARS-CoV-2"
+            },
+            {
+              "string": "Coronavirus Disease 2019 Testing"
+            },
+            {
+              "string": "2019 Novel Coronavirus Disease Testing"
+            },
+            {
+              "string": "2019 Novel Coronavirus Testing"
+            },
+            {
+              "string": "2019-nCoV Disease Testing"
+            },
+            {
+              "string": "2019 nCoV Disease Testing"
+            },
+            {
+              "string": "2019-nCoV Disease Testings"
+            },
+            {
+              "string": "Disease Testing, 2019-nCoV"
+            },
+            {
+              "string": "Testing, 2019-nCoV Disease"
+            },
+            {
+              "string": "2019-nCoV Infection Testing"
+            },
+            {
+              "string": "2019 nCoV Infection Testing"
+            },
+            {
+              "string": "2019-nCoV Infection Testings"
+            },
+            {
+              "string": "Infection Testing, 2019-nCoV"
+            },
+            {
+              "string": "Testing, 2019-nCoV Infection"
+            },
+            {
+              "string": "COVID-19 Diagnostic Testing"
+            },
+            {
+              "string": "COVID 19 Diagnostic Testing"
+            },
+            {
+              "string": "COVID-19 Diagnostic Testings"
+            },
+            {
+              "string": "Diagnostic Testing, COVID-19"
+            },
+            {
+              "string": "Severe Acute Respiratory Syndrome Coronavirus 2 Testing"
+            },
+            {
+              "string": "Coronavirus Disease-19 Testing"
+            },
+            {
+              "string": "Coronavirus Disease 19 Testing"
+            },
+            {
+              "string": "Coronavirus Disease-19 Testings"
+            },
+            {
+              "string": "Testing, Coronavirus Disease-19"
+            },
+            {
+              "string": "2019-nCoV Testing"
+            },
+            {
+              "string": "2019 nCoV Testing"
+            },
+            {
+              "string": "2019-nCoV Testings"
+            },
+            {
+              "string": "Testing, 2019-nCoV"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "COVID-19 Testing"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Automated Facial Recognition",
+          "termList": [
+            {
+              "string": "Automated Facial Recognition"
+            },
+            {
+              "string": "Recognition, Automated Facial"
+            },
+            {
+              "string": "Facial Recognition, Automated"
+            },
+            {
+              "string": "Automated Facial Identity Recognition"
+            }
+          ]
+        },
+        {
+          "conceptName": "Facial Recognition Technology",
+          "termList": [
+            {
+              "string": "Facial Recognition Technology"
+            },
+            {
+              "string": "Facial Recognition Technologies"
+            },
+            {
+              "string": "Recognition Technologies, Facial"
+            },
+            {
+              "string": "Recognition Technology, Facial"
+            },
+            {
+              "string": "Technologies, Facial Recognition"
+            },
+            {
+              "string": "Technology, Facial Recognition"
+            }
+          ]
+        },
+        {
+          "conceptName": "Facial Approximation",
+          "termList": [
+            {
+              "string": "Facial Approximation"
+            },
+            {
+              "string": "Approximation, Facial"
+            },
+            {
+              "string": "Approximations, Facial"
+            },
+            {
+              "string": "Facial Approximations"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Automated Facial Recognition"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Coronavirus 3C Proteases",
+          "termList": [
+            {
+              "string": "Coronavirus 3C Proteases"
+            },
+            {
+              "string": "M(pro) Protein, Coronavirus"
+            },
+            {
+              "string": "Chymotrypsin-Like Main Protease, Coronavirus"
+            },
+            {
+              "string": "Chymotrypsin Like Main Protease, Coronavirus"
+            },
+            {
+              "string": "3C-Like Proteinase, Coronavirus"
+            },
+            {
+              "string": "3C Like Proteinase, Coronavirus"
+            },
+            {
+              "string": "Coronavirus 3C-Like Proteinase"
+            },
+            {
+              "string": "3C Proteases, Coronavirus"
+            },
+            {
+              "string": "Coronavirus 3C Proteinases"
+            },
+            {
+              "string": "3C Proteinases, Coronavirus"
+            },
+            {
+              "string": "Proteinases, Coronavirus 3C"
+            },
+            {
+              "string": "Coronavirus 3CLpro Proteinase"
+            },
+            {
+              "string": "3CLpro Proteinase, Coronavirus"
+            },
+            {
+              "string": "Proteinase, Coronavirus 3CLpro"
+            },
+            {
+              "string": "Coronavirus 3CLpro Proteases"
+            },
+            {
+              "string": "3CLpro Proteases, Coronavirus"
+            },
+            {
+              "string": "Mpro Protein, Coronavirus"
+            },
+            {
+              "string": "Coronavirus Mpro Protein"
+            },
+            {
+              "string": "Main Proteinase, Coronavirus"
+            },
+            {
+              "string": "Coronavirus Main Proteinase"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Coronavirus 3C Proteases"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Disease Hotspot",
+          "termList": [
+            {
+              "string": "Disease Hotspot"
+            },
+            {
+              "string": "Disease Hotspots"
+            },
+            {
+              "string": "Hotspot, Disease"
+            },
+            {
+              "string": "Hotspots, Disease"
+            },
+            {
+              "string": "Disease Hotspot Burden"
+            },
+            {
+              "string": "Burden, Disease Hotspot"
+            },
+            {
+              "string": "Burdens, Disease Hotspot"
+            },
+            {
+              "string": "Disease Hotspot Burdens"
+            },
+            {
+              "string": "Hotspot Burden, Disease"
+            },
+            {
+              "string": "Hotspot Burdens, Disease"
+            },
+            {
+              "string": "Spatial Cluster, Disease"
+            },
+            {
+              "string": "Cluster, Disease Spatial"
+            },
+            {
+              "string": "Clusters, Disease Spatial"
+            },
+            {
+              "string": "Disease Spatial Cluster"
+            },
+            {
+              "string": "Disease Spatial Clusters"
+            },
+            {
+              "string": "Spatial Clusters, Disease"
+            },
+            {
+              "string": "Transmission Hotspot"
+            },
+            {
+              "string": "Hotspot, Transmission"
+            },
+            {
+              "string": "Hotspots, Transmission"
+            },
+            {
+              "string": "Transmission Hotspots"
+            },
+            {
+              "string": "Burden Hotspot"
+            },
+            {
+              "string": "Burden Hotspots"
+            },
+            {
+              "string": "Hotspot, Burden"
+            },
+            {
+              "string": "Hotspots, Burden"
+            },
+            {
+              "string": "Disease Clusters"
+            },
+            {
+              "string": "Cluster, Disease"
+            },
+            {
+              "string": "Clusters, Disease"
+            },
+            {
+              "string": "Disease Cluster"
+            },
+            {
+              "string": "Disease Hot Spot"
+            },
+            {
+              "string": "Disease Hot Spots"
+            },
+            {
+              "string": "Hot Spot, Disease"
+            },
+            {
+              "string": "Hot Spots, Disease"
+            }
+          ]
+        },
+        {
+          "conceptName": "Disease Clustering",
+          "termList": [
+            {
+              "string": "Disease Clustering"
+            },
+            {
+              "string": "Clustering, Disease"
+            },
+            {
+              "string": "Clusterings, Disease"
+            },
+            {
+              "string": "Disease Clusterings"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Disease Hotspot"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "User-Centered Design",
+          "termList": [
+            {
+              "string": "User-Centered Design"
+            },
+            {
+              "string": "Design, User-Centered"
+            },
+            {
+              "string": "Designs, User-Centered"
+            },
+            {
+              "string": "User Centered Design"
+            },
+            {
+              "string": "User-Centered Designs"
+            },
+            {
+              "string": "Usability Testing"
+            },
+            {
+              "string": "Testing, Usability"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "User-Centered Design"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Uridylate-Specific Endoribonucleases",
+          "termList": [
+            {
+              "string": "Uridylate-Specific Endoribonucleases"
+            },
+            {
+              "string": "Endoribonucleases, Uridylate-Specific"
+            },
+            {
+              "string": "Uridylate Specific Endoribonucleases"
+            },
+            {
+              "string": "ENDOU"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Uridylate-Specific Endoribonucleases"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Coronavirus M Proteins",
+          "termList": [
+            {
+              "string": "Coronavirus M Proteins"
+            },
+            {
+              "string": "M Proteins, Coronavirus"
+            },
+            {
+              "string": "M Protein, Coronavirus"
+            },
+            {
+              "string": "Coronavirus M Protein"
+            }
+          ]
+        },
+        {
+          "conceptName": "Coronavirus Membrane Proteins",
+          "termList": [
+            {
+              "string": "Coronavirus Membrane Proteins"
+            },
+            {
+              "string": "Membrane Proteins, Coronavirus"
+            }
+          ]
+        },
+        {
+          "conceptName": "Coronavirus Matrix Proteins",
+          "termList": [
+            {
+              "string": "Coronavirus Matrix Proteins"
+            },
+            {
+              "string": "Matrix Proteins, Coronavirus"
+            }
+          ]
+        },
+        {
+          "conceptName": "Coronavirus Membrane Glycoproteins",
+          "termList": [
+            {
+              "string": "Coronavirus Membrane Glycoproteins"
+            },
+            {
+              "string": "Membrane Glycoproteins, Coronavirus"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Coronavirus M Proteins"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Coronavirus Papain-Like Proteases",
+          "termList": [
+            {
+              "string": "Coronavirus Papain-Like Proteases"
+            },
+            {
+              "string": "Coronavirus Papain Like Proteases"
+            },
+            {
+              "string": "Papain-Like Proteases, Coronavirus"
+            },
+            {
+              "string": "Papain-Like Protease, Coronavirus"
+            },
+            {
+              "string": "Papain Like Protease, Coronavirus"
+            }
+          ]
+        },
+        {
+          "conceptName": "Papain-Like Proteinase 1, Coronavirus",
+          "termList": [
+            {
+              "string": "Papain-Like Proteinase 1, Coronavirus"
+            },
+            {
+              "string": "Papain Like Proteinase 1, Coronavirus"
+            },
+            {
+              "string": "PLP-1 Protein, Coronavirus"
+            },
+            {
+              "string": "Coronavirus PLP-1 Protein"
+            },
+            {
+              "string": "PLP 1 Protein, Coronavirus"
+            }
+          ]
+        },
+        {
+          "conceptName": "Papain-Like Proteinase 3, Coronavirus",
+          "termList": [
+            {
+              "string": "Papain-Like Proteinase 3, Coronavirus"
+            },
+            {
+              "string": "Papain Like Proteinase 3, Coronavirus"
+            },
+            {
+              "string": "PLP-3 Protein, Coronavirus"
+            },
+            {
+              "string": "Coronavirus PLP-3 Protein"
+            },
+            {
+              "string": "PLP 3 Protein, Coronavirus"
+            }
+          ]
+        },
+        {
+          "conceptName": "Papain-Like Proteinase 2, Coronavirus",
+          "termList": [
+            {
+              "string": "Papain-Like Proteinase 2, Coronavirus"
+            },
+            {
+              "string": "Papain Like Proteinase 2, Coronavirus"
+            },
+            {
+              "string": "PLP-2 Protein, Coronavirus"
+            },
+            {
+              "string": "Coronavirus PLP-2 Protein"
+            },
+            {
+              "string": "PLP 2 Protein, Coronavirus"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Coronavirus Papain-Like Proteases"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Viral Replicase Complex Proteins",
+          "termList": [
+            {
+              "string": "Viral Replicase Complex Proteins"
+            },
+            {
+              "string": "Viral Replicase Proteins"
+            },
+            {
+              "string": "Replicase Proteins, Viral"
+            }
+          ]
+        },
+        {
+          "conceptName": "Viral RNA Polymerases",
+          "termList": [
+            {
+              "string": "Viral RNA Polymerases"
+            },
+            {
+              "string": "RNA Polymerases, Viral"
+            }
+          ]
+        },
+        {
+          "conceptName": "Viral Replicases",
+          "termList": [
+            {
+              "string": "Viral Replicases"
+            },
+            {
+              "string": "Replicases, Viral"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Viral Replicase Complex Proteins"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "ADP-Ribose 1''-Phosphate Phosphatases",
+          "termList": [
+            {
+              "string": "ADP-Ribose 1''-Phosphate Phosphatases"
+            },
+            {
+              "string": "ADP Ribose 1'' Phosphate Phosphatases"
+            },
+            {
+              "string": "Phosphatases, ADP-Ribose 1''-Phosphate"
+            },
+            {
+              "string": "Appr1p Phosphatase"
+            },
+            {
+              "string": "ADP-Ribose 1''-Phosphate Phosphatase"
+            },
+            {
+              "string": "ADP Ribose 1'' Phosphate Phosphatase"
+            },
+            {
+              "string": "Phosphatase, ADP-Ribose 1''-Phosphate"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "ADP-Ribose 1''-Phosphate Phosphatases"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Viral Envelope",
+          "termList": [
+            {
+              "string": "Viral Envelope"
+            },
+            {
+              "string": "Envelope, Viral"
+            },
+            {
+              "string": "Envelopes, Viral"
+            },
+            {
+              "string": "Viral Envelopes"
+            },
+            {
+              "string": "Virus Envelope"
+            },
+            {
+              "string": "Envelope, Virus"
+            },
+            {
+              "string": "Envelopes, Virus"
+            },
+            {
+              "string": "Virus Envelopes"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Viral Envelope"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Viral Zoonoses",
+          "termList": [
+            {
+              "string": "Viral Zoonoses"
+            },
+            {
+              "string": "Viral Zoonose"
+            },
+            {
+              "string": "Zoonose, Viral"
+            },
+            {
+              "string": "Zoonoses, Viral"
+            },
+            {
+              "string": "Viral Zoonosis"
+            },
+            {
+              "string": "Zoonosis, Viral"
+            },
+            {
+              "string": "Viral Zoonotic Infections"
+            },
+            {
+              "string": "Infection, Viral Zoonotic"
+            },
+            {
+              "string": "Infections, Viral Zoonotic"
+            },
+            {
+              "string": "Viral Zoonotic Infection"
+            },
+            {
+              "string": "Zoonotic Infection, Viral"
+            },
+            {
+              "string": "Zoonotic Infections, Viral"
+            },
+            {
+              "string": "Viral Zoonotic Diseases"
+            },
+            {
+              "string": "Disease, Viral Zoonotic"
+            },
+            {
+              "string": "Diseases, Viral Zoonotic"
+            },
+            {
+              "string": "Zoonotic Disease, Viral"
+            },
+            {
+              "string": "Zoonotic Diseases, Viral"
+            },
+            {
+              "string": "Viral Zoonotic Disease"
+            },
+            {
+              "string": "Zoonotic Spillover, Viral"
+            },
+            {
+              "string": "Viral Zoonotic Spillover"
+            },
+            {
+              "string": "Viral Zoonotic Spillovers"
+            },
+            {
+              "string": "Zoonotic Spillovers, Viral"
+            },
+            {
+              "string": "Zoonotic Viral Infections"
+            },
+            {
+              "string": "Infection, Zoonotic Viral"
+            },
+            {
+              "string": "Infections, Zoonotic Viral"
+            },
+            {
+              "string": "Viral Infection, Zoonotic"
+            },
+            {
+              "string": "Viral Infections, Zoonotic"
+            },
+            {
+              "string": "Zoonotic Viral Infection"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Viral Zoonoses"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Bacterial Zoonoses",
+          "termList": [
+            {
+              "string": "Bacterial Zoonoses"
+            },
+            {
+              "string": "Bacterial Zoonose"
+            },
+            {
+              "string": "Zoonose, Bacterial"
+            },
+            {
+              "string": "Zoonoses, Bacterial"
+            },
+            {
+              "string": "Zoonotic Bacterial Infections"
+            },
+            {
+              "string": "Bacterial Infection, Zoonotic"
+            },
+            {
+              "string": "Bacterial Infections, Zoonotic"
+            },
+            {
+              "string": "Infection, Zoonotic Bacterial"
+            },
+            {
+              "string": "Infections, Zoonotic Bacterial"
+            },
+            {
+              "string": "Zoonotic Bacterial Infection"
+            },
+            {
+              "string": "Bacterial Zoonosis"
+            },
+            {
+              "string": "Zoonosis, Bacterial"
+            },
+            {
+              "string": "Bacterial Zoonotic Diseases"
+            },
+            {
+              "string": "Bacterial Zoonotic Disease"
+            },
+            {
+              "string": "Disease, Bacterial Zoonotic"
+            },
+            {
+              "string": "Diseases, Bacterial Zoonotic"
+            },
+            {
+              "string": "Zoonotic Disease, Bacterial"
+            },
+            {
+              "string": "Zoonotic Diseases, Bacterial"
+            },
+            {
+              "string": "Zoonotic Bacterial Diseases"
+            },
+            {
+              "string": "Bacterial Disease, Zoonotic"
+            },
+            {
+              "string": "Bacterial Diseases, Zoonotic"
+            },
+            {
+              "string": "Disease, Zoonotic Bacterial"
+            },
+            {
+              "string": "Diseases, Zoonotic Bacterial"
+            },
+            {
+              "string": "Zoonotic Bacterial Disease"
+            },
+            {
+              "string": "Zoonotic Spillover, Bacterial"
+            },
+            {
+              "string": "Bacterial Zoonotic Spillover"
+            },
+            {
+              "string": "Bacterial Zoonotic Spillovers"
+            },
+            {
+              "string": "Zoonotic Spillovers, Bacterial"
+            },
+            {
+              "string": "Bacterial Zoonotic Infections"
+            },
+            {
+              "string": "Bacterial Zoonotic Infection"
+            },
+            {
+              "string": "Infection, Bacterial Zoonotic"
+            },
+            {
+              "string": "Infections, Bacterial Zoonotic"
+            },
+            {
+              "string": "Zoonotic Infection, Bacterial"
+            },
+            {
+              "string": "Zoonotic Infections, Bacterial"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Bacterial Zoonoses"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Host Adaptation",
+          "termList": [
+            {
+              "string": "Host Adaptation"
+            },
+            {
+              "string": "Adaptation, Host"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Host Adaptation"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Coronavirus Envelope Proteins",
+          "termList": [
+            {
+              "string": "Coronavirus Envelope Proteins"
+            },
+            {
+              "string": "Envelope Proteins, Coronavirus"
+            },
+            {
+              "string": "Coronavirus Envelope Glycoproteins"
+            },
+            {
+              "string": "Envelope Glycoproteins, Coronavirus"
+            }
+          ]
+        },
+        {
+          "conceptName": "Coronavirus Peplomer Protein E2 JHM",
+          "termList": [
+            {
+              "string": "Coronavirus Peplomer Protein E2 JHM"
+            }
+          ]
+        },
+        {
+          "conceptName": "Coronavirus Peplomer Protein E1",
+          "termList": [
+            {
+              "string": "Coronavirus Peplomer Protein E1"
+            }
+          ]
+        },
+        {
+          "conceptName": "Corona Virus Membrane Protein E1",
+          "termList": [
+            {
+              "string": "Corona Virus Membrane Protein E1"
+            },
+            {
+              "string": "Coronavirus gpE1"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Coronavirus Envelope Proteins"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Viral Replication Compartments",
+          "termList": [
+            {
+              "string": "Viral Replication Compartments"
+            },
+            {
+              "string": "Replication Compartment, Viral"
+            },
+            {
+              "string": "Replication Compartments, Viral"
+            },
+            {
+              "string": "Viral Replication Compartment"
+            },
+            {
+              "string": "Viral Replication Centers"
+            },
+            {
+              "string": "Replication Center, Viral"
+            },
+            {
+              "string": "Replication Centers, Viral"
+            },
+            {
+              "string": "Viral Replication Center"
+            },
+            {
+              "string": "Virus Replication Centers"
+            },
+            {
+              "string": "Replication Center, Virus"
+            },
+            {
+              "string": "Replication Centers, Virus"
+            },
+            {
+              "string": "Virus Replication Center"
+            },
+            {
+              "string": "Viral Factory"
+            },
+            {
+              "string": "Virus Factories"
+            },
+            {
+              "string": "Virus Factory"
+            },
+            {
+              "string": "Viral Factories"
+            },
+            {
+              "string": "Virus Replication Compartments"
+            },
+            {
+              "string": "Replication Compartment, Virus"
+            },
+            {
+              "string": "Replication Compartments, Virus"
+            },
+            {
+              "string": "Virus Replication Compartment"
+            },
+            {
+              "string": "Viroplasm"
+            }
+          ]
+        },
+        {
+          "conceptName": "Virus-Induced Double-Membrane Vesicles",
+          "termList": [
+            {
+              "string": "Virus-Induced Double-Membrane Vesicles"
+            },
+            {
+              "string": "Virus Induced Double Membrane Vesicles"
+            },
+            {
+              "string": "Double-Membrane Vesicles, Virus-Induced"
+            },
+            {
+              "string": "Double Membrane Vesicles, Virus Induced"
+            },
+            {
+              "string": "Double-Membrane Vesicle, Virus-Induced"
+            },
+            {
+              "string": "Vesicle, Virus-Induced Double-Membrane"
+            },
+            {
+              "string": "Vesicles, Virus-Induced Double-Membrane"
+            },
+            {
+              "string": "Virus-Induced Double-Membrane Vesicle"
+            }
+          ]
+        },
+        {
+          "conceptName": "Zippered Endoplasmic Reticulum Double-Membrane Spherules",
+          "termList": [
+            {
+              "string": "Zippered Endoplasmic Reticulum Double-Membrane Spherules"
+            },
+            {
+              "string": "Zippered Endoplasmic Reticulum Double Membrane Spherules"
+            }
+          ]
+        },
+        {
+          "conceptName": "Coronavirus Replication-Transcription Complexes",
+          "termList": [
+            {
+              "string": "Coronavirus Replication-Transcription Complexes"
+            },
+            {
+              "string": "Complexe, Coronavirus Replication-Transcription"
+            },
+            {
+              "string": "Complexes, Coronavirus Replication-Transcription"
+            },
+            {
+              "string": "Coronavirus Replication Transcription Complexes"
+            },
+            {
+              "string": "Replication-Transcription Complexes, Coronavirus"
+            }
+          ]
+        },
+        {
+          "conceptName": "Positive Strand RNA Virus Replication-Transcription Complexes",
+          "termList": [
+            {
+              "string": "Positive Strand RNA Virus Replication-Transcription Complexes"
+            },
+            {
+              "string": "Positive Strand RNA Virus Replication Transcription Complexes"
+            }
+          ]
+        },
+        {
+          "conceptName": "Positive-Strand RNA Virus Replication-Transcription Compartments",
+          "termList": [
+            {
+              "string": "Positive-Strand RNA Virus Replication-Transcription Compartments"
+            },
+            {
+              "string": "Positive Strand RNA Virus Replication Transcription Compartments"
+            }
+          ]
+        },
+        {
+          "conceptName": "Virogenic Stroma",
+          "termList": [
+            {
+              "string": "Virogenic Stroma"
+            }
+          ]
+        },
+        {
+          "conceptName": "Coronavirus Replication-Transcription Compartments",
+          "termList": [
+            {
+              "string": "Coronavirus Replication-Transcription Compartments"
+            },
+            {
+              "string": "Coronavirus Replication Transcription Compartments"
+            },
+            {
+              "string": "Coronavirus Replication-Transcription Compartment"
+            },
+            {
+              "string": "Replication-Transcription Compartment, Coronavirus"
+            },
+            {
+              "string": "Replication-Transcription Compartments, Coronavirus"
+            },
+            {
+              "string": "Coronavirus Double-Membrane Vesicles"
+            },
+            {
+              "string": "Coronavirus Double Membrane Vesicles"
+            },
+            {
+              "string": "Coronavirus Double-Membrane Vesicle"
+            },
+            {
+              "string": "Double-Membrane Vesicle, Coronavirus"
+            },
+            {
+              "string": "Double-Membrane Vesicles, Coronavirus"
+            },
+            {
+              "string": "Vesicle, Coronavirus Double-Membrane"
+            },
+            {
+              "string": "Vesicles, Coronavirus Double-Membrane"
+            },
+            {
+              "string": "Coronavirus RTC"
+            },
+            {
+              "string": "Coronavirus RTCs"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Viral Replication Compartments"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Blood-Borne Infections",
+          "termList": [
+            {
+              "string": "Blood-Borne Infections"
+            },
+            {
+              "string": "Blood-Borne Infection"
+            },
+            {
+              "string": "Infection, Blood-Borne"
+            },
+            {
+              "string": "Blood Borne Diseases"
+            },
+            {
+              "string": "Blood Borne Disease"
+            },
+            {
+              "string": "Disease, Blood Borne"
+            },
+            {
+              "string": "Blood Borne Infections"
+            },
+            {
+              "string": "Blood Borne Infection"
+            },
+            {
+              "string": "Infection, Blood Borne"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Blood-Borne Infections"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Viral Transcription",
+          "termList": [
+            {
+              "string": "Viral Transcription"
+            },
+            {
+              "string": "Virus Transcription"
+            },
+            {
+              "string": "Transcription, Virus"
+            },
+            {
+              "string": "Transcription, Viral"
+            }
+          ]
+        },
+        {
+          "conceptName": "Early Gene Transcription, Viral",
+          "termList": [
+            {
+              "string": "Early Gene Transcription, Viral"
+            },
+            {
+              "string": "Early Gene Transcription, Virus"
+            }
+          ]
+        },
+        {
+          "conceptName": "Late Gene Transcription, Viral",
+          "termList": [
+            {
+              "string": "Late Gene Transcription, Viral"
+            },
+            {
+              "string": "Late Gene Transcription, Virus"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Viral Transcription"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Identity Recognition",
+          "termList": [
+            {
+              "string": "Identity Recognition"
+            },
+            {
+              "string": "Recognition, Identity"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Identity Recognition"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Voice Recognition",
+          "termList": [
+            {
+              "string": "Voice Recognition"
+            },
+            {
+              "string": "Recognition, Voice"
+            }
+          ]
+        },
+        {
+          "conceptName": "Voice Emotion Recognition",
+          "termList": [
+            {
+              "string": "Voice Emotion Recognition"
+            },
+            {
+              "string": "Emotion Recognition, Voice"
+            },
+            {
+              "string": "Voice Emotion Recognitions"
+            }
+          ]
+        },
+        {
+          "conceptName": "Voice Identification",
+          "termList": [
+            {
+              "string": "Voice Identification"
+            },
+            {
+              "string": "Identification, Voice"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Voice Recognition"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Pegivirus",
+          "termList": [
+            {
+              "string": "Pegivirus"
+            },
+            {
+              "string": "Pegiviruses"
+            }
+          ]
+        },
+        {
+          "conceptName": "Human Pegivirus",
+          "termList": [
+            {
+              "string": "Human Pegivirus"
+            },
+            {
+              "string": "Human Pegiviruses"
+            },
+            {
+              "string": "Pegivirus, Human"
+            },
+            {
+              "string": "Pegiviruses, Human"
+            }
+          ]
+        },
+        {
+          "conceptName": "Human Hepegiviruses",
+          "termList": [
+            {
+              "string": "Human Hepegiviruses"
+            },
+            {
+              "string": "Hepegivirus, Human"
+            },
+            {
+              "string": "Hepegiviruses, Human"
+            },
+            {
+              "string": "Human Hepegivirus"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Pegivirus"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "Mania",
+          "termList": [
+            {
+              "string": "Mania"
+            },
+            {
+              "string": "Manias"
+            },
+            {
+              "string": "Manic State"
+            }
+          ]
+        },
+        {
+          "conceptName": "Hypomanic Episode",
+          "termList": [
+            {
+              "string": "Hypomanic Episode"
+            },
+            {
+              "string": "Hypomanic Episodes"
+            }
+          ]
+        },
+        {
+          "conceptName": "Hypomania",
+          "termList": [
+            {
+              "string": "Hypomania"
+            },
+            {
+              "string": "Hypomanias"
+            }
+          ]
+        },
+        {
+          "conceptName": "Manic Episode",
+          "termList": [
+            {
+              "string": "Manic Episode"
+            },
+            {
+              "string": "Episode, Manic"
+            },
+            {
+              "string": "Manic Episodes"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "Mania"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "COVID-19 Nucleic Acid Testing",
+          "termList": [
+            {
+              "string": "COVID-19 Nucleic Acid Testing"
+            },
+            {
+              "string": "COVID 19 Nucleic Acid Testing"
+            },
+            {
+              "string": "SARS-CoV-2 Infection Nucleic Acid Testing"
+            },
+            {
+              "string": "SARS CoV 2 Infection Nucleic Acid Testing"
+            },
+            {
+              "string": "SARS Coronavirus 2 Nucleic Acid Testing"
+            },
+            {
+              "string": "COVID19 Nucleic Acid Testing"
+            }
+          ]
+        },
+        {
+          "conceptName": "COVID-19 RT-PCR Testing",
+          "termList": [
+            {
+              "string": "COVID-19 RT-PCR Testing"
+            },
+            {
+              "string": "COVID 19 RT PCR Testing"
+            },
+            {
+              "string": "COVID-19 RT-PCR Testings"
+            },
+            {
+              "string": "RT-PCR Testing, COVID-19"
+            },
+            {
+              "string": "Testing, COVID-19 RT-PCR"
+            },
+            {
+              "string": "SARS Coronavirus 2 RT-PCR Testing"
+            },
+            {
+              "string": "SARS Coronavirus 2 RT PCR Testing"
+            },
+            {
+              "string": "SARS-CoV2 RT-PCR Testing"
+            },
+            {
+              "string": "RT-PCR Testing, SARS-CoV2"
+            },
+            {
+              "string": "SARS CoV2 RT PCR Testing"
+            },
+            {
+              "string": "SARS-CoV2 RT-PCR Testings"
+            },
+            {
+              "string": "Testing, SARS-CoV2 RT-PCR"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "COVID-19 Serological Testing",
+          "termList": [
+            {
+              "string": "COVID-19 Serological Testing"
+            },
+            {
+              "string": "COVID 19 Serological Testing"
+            },
+            {
+              "string": "COVID-19 Serological Testings"
+            },
+            {
+              "string": "Serological Testing, COVID-19"
+            },
+            {
+              "string": "Testing, COVID-19 Serological"
+            },
+            {
+              "string": "SARS-CoV-2 Infection Serological Testing"
+            },
+            {
+              "string": "SARS CoV 2 Infection Serological Testing"
+            },
+            {
+              "string": "Serology Testing for COVID-19"
+            },
+            {
+              "string": "Serology Testing for COVID 19"
+            },
+            {
+              "string": "COVID19 Serological Testing"
+            },
+            {
+              "string": "COVID19 Serological Testings"
+            },
+            {
+              "string": "Serological Testing, COVID19"
+            },
+            {
+              "string": "Testing, COVID19 Serological"
+            }
+          ]
+        },
+        {
+          "conceptName": "COVID-19 Serodiagnosis",
+          "termList": [
+            {
+              "string": "COVID-19 Serodiagnosis"
+            },
+            {
+              "string": "COVID 19 Serodiagnosis"
+            },
+            {
+              "string": "COVID-19 Serodiagnoses"
+            },
+            {
+              "string": "Serodiagnosis, COVID-19"
+            },
+            {
+              "string": "COVID19 Serodiagnosis"
+            },
+            {
+              "string": "COVID19 Serodiagnoses"
+            },
+            {
+              "string": "Serodiagnosis, COVID19"
+            }
+          ]
+        },
+        {
+          "conceptName": "COVID-19 Antibody Testing",
+          "termList": [
+            {
+              "string": "COVID-19 Antibody Testing"
+            },
+            {
+              "string": "Antibody Testing, COVID-19"
+            },
+            {
+              "string": "COVID 19 Antibody Testing"
+            },
+            {
+              "string": "COVID-19 Antibody Testings"
+            },
+            {
+              "string": "Testing, COVID-19 Antibody"
+            },
+            {
+              "string": "SARS-CoV-2 Infection Antibody Testing"
+            },
+            {
+              "string": "SARS CoV 2 Infection Antibody Testing"
+            },
+            {
+              "string": "COVID19 Antibody Testing"
+            },
+            {
+              "string": "Antibody Testing, COVID19"
+            },
+            {
+              "string": "COVID19 Antibody Testings"
+            },
+            {
+              "string": "Testing, COVID19 Antibody"
+            }
+          ]
+        },
+        {
+          "conceptName": "SARS-COV-2 Antigen Testing",
+          "termList": [
+            {
+              "string": "SARS-COV-2 Antigen Testing"
+            },
+            {
+              "string": "Antigen Testings, SARS-COV-2"
+            },
+            {
+              "string": "SARS COV 2 Antigen Testing"
+            },
+            {
+              "string": "SARS-COV-2 Antigen Testings"
+            },
+            {
+              "string": "Testing, SARS-COV-2 Antigen"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "COVID-19 Serological Testing"
+    },
+    {
+      "conceptList": [
+        {
+          "conceptName": "N95 Respirators",
+          "termList": [
+            {
+              "string": "N95 Respirators"
+            },
+            {
+              "string": "N95 Respirator"
+            },
+            {
+              "string": "Respirator, N95"
+            },
+            {
+              "string": "N95 Face Masks"
+            },
+            {
+              "string": "Face Mask, N95"
+            },
+            {
+              "string": "Mask, N95 Face"
+            },
+            {
+              "string": "N95 Face Mask"
+            },
+            {
+              "string": "N95 Masks"
+            },
+            {
+              "string": "Mask, N95"
+            },
+            {
+              "string": "N95 Mask"
+            }
+          ]
+        },
+        {
+          "conceptName": "N95 Filtering Facepiece Respirators",
+          "termList": [
+            {
+              "string": "N95 Filtering Facepiece Respirators"
+            },
+            {
+              "string": "N95 FFRs"
+            },
+            {
+              "string": "N95 FFR"
+            }
+          ]
+        }
+      ],
+      "descriptorName": "N95 Respirators"
+    }
+  ]
+}
